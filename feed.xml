@@ -6,9 +6,31 @@
 </description>
     <link>http://tanat44.github.io</link>
     <atom:link href="http://tanat44.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2020 18:04:00 +0700</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2020 18:04:00 +0700</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2020 18:50:50 +0700</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2020 18:50:50 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Box-Joint Generator for Laser Cutting</title>
+        <description>&lt;p&gt;Drawing a box joint outline on Illustrator one-by-one, size-by-size was a very boring task, so I created an automated script (written in Javascript/HTML) that generates box-joint in .svg format in a single click. This is how the program looks.
+&lt;img src=&quot;/assets/images/box_joint_generator_v3.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;click-here&quot;&gt;&lt;a href=&quot;/box_joint_generator_v3.html&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;To go straight to the generator that runs on your browser.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You can try out different parameters like Thickness, Width, Height, and so on.&lt;/li&gt;
+  &lt;li&gt;Click generate and the result object will be shown below.&lt;/li&gt;
+  &lt;li&gt;Once you are satisfy with the result simple change ‘output’ to ‘svg’ and click generate again. This time .svg file will be downloaded.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0700</pubDate>
+        <link>http://tanat44.github.io/2019/06/21/box-joint-generator/</link>
+        <guid isPermaLink="true">http://tanat44.github.io/2019/06/21/box-joint-generator/</guid>
+        
+        <category>Code</category>
+        
+        
+      </item>
     
       <item>
         <title>Sim-Racing Pedal Attachment</title>
