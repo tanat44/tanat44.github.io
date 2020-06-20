@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Airfryer Potato"
-date: 2019-06-20
+date: 2019-06-19
 description: 
 image: /assets/images/potato.jpg
 author: Tanut Treratanakulwong
 tags: 
-  - Weekend
   - Code
 ---
 
