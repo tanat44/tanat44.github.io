@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://tanat44.github.io/2019/06/20/potato-airfryer/</loc>
+<loc>http://tanat44.github.io/2019/06/19/potato-airfryer/</loc>
+<lastmod>2019-06-19T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://tanat44.github.io/2019/06/20/simracing-pedal-attachment/</loc>
 <lastmod>2019-06-20T00:00:00+07:00</lastmod>
 </url>
 <url>
@@ -14,9 +18,9 @@
 <loc>http://tanat44.github.io/</loc>
 </url>
 <url>
-<loc>http://tanat44.github.io/tag/weekend/</loc>
+<loc>http://tanat44.github.io/tag/code/</loc>
 </url>
 <url>
-<loc>http://tanat44.github.io/tag/code/</loc>
+<loc>http://tanat44.github.io/tag/mechanic/</loc>
 </url>
 </urlset>

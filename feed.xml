@@ -6,9 +6,28 @@
 </description>
     <link>http://tanat44.github.io</link>
     <atom:link href="http://tanat44.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2020 13:58:05 +0700</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2020 13:58:05 +0700</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2020 18:04:00 +0700</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2020 18:04:00 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sim-Racing Pedal Attachment</title>
+        <description>&lt;p&gt;I had an issue with the height and angle of the accelerator/break pedals because they are too low and too deep in my seating setup, so I designed an attachment (the white plastic piece) which can be bolt on to Thrustmaster T3PA pedal to fix this issue. See youtube video below how I modified the pedals.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ttFbTL8eooQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The attachment was 3d-printed using PLA plastic on Ender3 at the extrusion width of 0.3mm and 2 walls. Originally, the pedal is crew directly on to the printed plastic using M4 bolt but later I modified the design with M4 nut insert.&lt;/p&gt;
+
+&lt;p&gt;You can download the design this link &lt;a href=&quot;https://a360.co/2ChwrGX&quot;&gt;https://a360.co/2ChwrGX&lt;/a&gt; (Autodesk Fusion 360)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Jun 2019 00:00:00 +0700</pubDate>
+        <link>http://tanat44.github.io/2019/06/20/simracing-pedal-attachment/</link>
+        <guid isPermaLink="true">http://tanat44.github.io/2019/06/20/simracing-pedal-attachment/</guid>
+        
+        <category>Mechanic</category>
+        
+        
+      </item>
     
       <item>
         <title>Airfryer Potato</title>
@@ -41,11 +60,9 @@
 &lt;p&gt;Wait for a couple of minutes and refresh your github.io website. You should be able to your new site! That’s a lot of manual steps. I wish it is easier but I’m pretty ok with it for now.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 20 Jun 2019 00:00:00 +0700</pubDate>
-        <link>http://tanat44.github.io/2019/06/20/potato-airfryer/</link>
-        <guid isPermaLink="true">http://tanat44.github.io/2019/06/20/potato-airfryer/</guid>
-        
-        <category>Weekend</category>
+        <pubDate>Wed, 19 Jun 2019 00:00:00 +0700</pubDate>
+        <link>http://tanat44.github.io/2019/06/19/potato-airfryer/</link>
+        <guid isPermaLink="true">http://tanat44.github.io/2019/06/19/potato-airfryer/</guid>
         
         <category>Code</category>
         
