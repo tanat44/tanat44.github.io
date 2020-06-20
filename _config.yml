@@ -28,16 +28,16 @@ contact_img: /assets/images/tanut.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+# disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+# mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+# mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
   - name: Tanut Treratanakulwong
-    bio: Tanut lives in Bangkok, Thailand. He is passionate about racing, programming, mechanical designs. This website is built to share his hobbies that might inspire someone who loves DIY.
+    bio: Tanut lives in Bangkok, Thailand. He is passionate about racing, programming, mechanical designs, and sort of diy stuffs. This website is built to share his thought, hobbies that might be useful to someone.
     url: http://tanat44.github.io
 
 # Pagination settings
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Tanut'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
