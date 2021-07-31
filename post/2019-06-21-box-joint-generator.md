@@ -1,13 +1,6 @@
----
-layout: post
-title: "Box-Joint Generator for Laser Cutting"
-date: 2019-06-21
-description: 
-image: /image/boxbox.png
-author: Tanut Treratanakulwong
-tags: 
-  - Code
----
+# Box-Joint Generator for Laser Cutting
+
+![](/image/boxbox.png)
 
 Drawing a box joint outline on Illustrator one-by-one, size-by-size was a very boring task, so I created an automated script (written in Javascript/HTML) that generates box-joint in .svg format in a single click. This is how the program looks.
 ![Placeholder](/image/box_joint_generator_v3.png)
