@@ -1,8 +1,14 @@
-# About Me
+# tanat44.github.io
+
+<img src="/image/tanut.jpg" alt="tanut" width="100"/>
+Everything about Tanut & matters that I am passionate about
+I am a computer-robotic engineer who loves making things. I dream of making a race car!
+
+## About Me
 
 [Work Experience](/page/work)
 
-# Blogs
+## Blogs
 
 [2019-06-21 Box Joint Generator](/post/2019-06-21-box-joint-generator)
 
