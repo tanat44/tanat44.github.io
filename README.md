@@ -1,8 +1,12 @@
 <img src="/image/tanut.jpg" alt="tanut" width="100" style="float: right"/>
 ```js
-// Everything about Tanut & matters that I am passionate about.
-// I am a computer-mechanical-robotic engineer who loves making things. 
-// I dream of making a race car!
+// Everything about Tanut 
+// Matters that I am passionate about.
+var Tanut = { 
+    job: computer-mechanical-robotic engineer,
+    enjoy: making things,
+    dream: make_a_race_car,
+}
 ```
 
 * * *
