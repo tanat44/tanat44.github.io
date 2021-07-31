@@ -1,4 +1,4 @@
-<img src="/image/tanut.jpg" alt="tanut" width="100" style="float: right"/>
+<img src="/image/tanut.jpg" alt="tanut" height="200" style="float: right"/>
 ```js
 // Everything about Tanut 
 // Matters that I am passionate about.
