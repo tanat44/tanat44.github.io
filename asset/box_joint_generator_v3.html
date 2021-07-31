@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style type="text/css">
+    .side {
+    	background-color: yellow;
+    	color: black;
+    	width: 100px;
+    	text-align:center;
+    	padding: 10px;
+    	margin: 2px;
+    	display:inline-block
+
+        
+    }
+
+    .bottom {
+    	background-color: gray;
+        color: white;
+           	width: 100px;
+    	text-align:center;
+    	padding: 10px;
+    	margin: 2px;
+    	display:inline-block
+    }
+</style>
+</head>
+
+<body>
+
+<h3>Wood parameters</h3>
+width <input type="text" id="width" value="600"><br/>
+height <input type="text" id="height" value="400"><br/>
+thickness <input type="text" id="thickness" value="3"><br/>
+
+<h3>Box parameters</h3>
+width <input type="text" id="boxWidthMin" value="60"> to <input type="text" id="boxWidthMax" value="60"> <br/>
+height <input type="text" id="boxHeightMin" value="40"> to <input type="text" id="boxHeightMax" value="40"> <br/>
+depth <input type="text" id="boxDepthMin" value="30"> to <input type="text" id="boxDepthMax" value="30"> <br/>
+size step <input type="text" id="sizeStep" value="10"> <br/>
+joint height <input type="text" id="boxJoint" value="10"><br/>
+
+<h3>Generator options</h3>
+repetition side <input type="text" id="repetitionSide" value="1"><br/>
+repetition bottom <input type="text" id="repetitionBottom" value="1"><br/>
+verhical spacing <input type="text" id="setDistance" value="2"><br/>
+output <select id="outputOption">
+  <option>screen</option>
+  <option>svg</option>
+</select> <br/>
+
+<br/><br/>
+
+<button onclick="myFunction()">Generate</button>
+<hr/>
+<div id="output"></div>
+
+<script>
+
+const lineStart = `<polyline class="fil0 str0" points="`
+const lineEnd = `"/>`
+
+function myFunction() {
+	const outputOption = document.getElementById("outputOption").value
+	const scale = outputOption === "svg" ? 100 : 1
+	const width = parseInt(document.getElementById("width").value) * scale
+	const height = parseInt(document.getElementById("height").value) * scale
+	const thickness = parseInt(document.getElementById("thickness").value) * scale
+	const boxWidthMin = parseInt(document.getElementById("boxWidthMin").value) * scale
+	const boxWidthMax = parseInt(document.getElementById("boxWidthMax").value) * scale
+	const boxHeightMin = parseInt(document.getElementById("boxHeightMin").value) * scale
+	const boxHeightMax = parseInt(document.getElementById("boxHeightMax").value) * scale
+	const sizeStep = parseInt(document.getElementById("sizeStep").value) * scale
+	const boxDepthMin = parseInt(document.getElementById("boxDepthMin").value) * scale
+	const boxDepthMax = parseInt(document.getElementById("boxDepthMax").value) * scale
+	const boxJoint = parseInt(document.getElementById("boxJoint").value) * scale
+	const repetitionSide = parseInt(document.getElementById("repetitionSide").value)
+	const repetitionBottom = parseInt(document.getElementById("repetitionBottom").value)
+	const setDistance = parseInt(document.getElementById("setDistance").value) * scale
+	const labelGen = document.getElementById("labelGen").checked;
+
+
+	const outputPre = `
+		<?xml version="1.0" encoding="UTF-8"?>
+		<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="215.9mm" height="279.4mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+		viewBox="0 0 21590 27940"
+		 xmlns:xlink="http://www.w3.org/1999/xlink">
+		 <defs>
+		  <style type="text/css">
+		   <![CDATA[
+		    .str0 {stroke:#332C2B;stroke-width:17.64}
+		    .fil0 {fill:none}
+		   ]]>
+		  </style>
+		 </defs>
+		 <g id="Layer_x0020_1">
+		  <metadata id="CorelCorpID_0Corel-Layer"/>`
+
+  	const outputPost = `
+		 </g>
+		</svg>
+  	`
+  	const test = -1
+  	const start = {x: 10, y: 10}
+  	let lines = '' 	  	
+  	let label = ''
+  	let location = {x: start.x, y: start.y}
+
+  	//draw side
+  	for (x = boxWidthMin; x <= boxWidthMax; x += sizeStep ) {
+  		for (y = boxHeightMin; y <= boxHeightMax; y += sizeStep) {
+		  	lines += drawSide(width, height, thickness, x, y, boxJoint, repetitionSide, setDistance, location, test)
+		  	label += '<div class="side">w ' + x/10 + ' x h ' + y/10 + '</div>'
+		  	location.x = start.x
+
+	  	}
+ 	}
+	//draw bottom
+  	for (x = boxWidthMin; x <= boxWidthMax; x += sizeStep ) {
+  		for (y = boxDepthMin; y <= boxDepthMax; y += sizeStep) {
+  			if (x < y) continue
+			lines += drawBottom(width, height, thickness, x, y, boxJoint, repetitionBottom, setDistance, location, test)
+			label += '<div class="bottom"> w ' + x/10 + ' x d ' + y/10 + '</div>'
+			location.x = start.x
+		}
+	}
+
+	//draw output
+	if (outputOption === "svg") {
+		download("output.svg", outputPre + lines + outputPost)
+	} else {
+		document.getElementById("output").innerHTML = `<svg height = "3000" width ="1000"> <style type="text/css">
+			   <![CDATA[
+			    .str0 {stroke:#332C2B;stroke-width:1}
+			    .fil0 {fill:none}
+			   ]]>
+			  </style>` + lines + `</svg>`		
+	}
+	
+}
+
+function drawSide (width, height, thickness, boxWidth, boxHeight, boxJoint, repetition, setDistance, pointer, test) {
+
+	let lines = ''
+	const start = {x: pointer.x, y: pointer.y}
+	const multipleSide = Math.floor( width / (boxWidth - thickness) )
+
+  	for ( k = 0; k < repetition; k++){
+  		let firstPiece = true
+
+	  	for ( i = 0; i < multipleSide ; i++ ) {
+	  		let coordinate = new Array()
+	  		
+	  		const boxX = boxWidth / boxJoint
+	  		const boxY = boxHeight / boxJoint
+	  		
+			let evenX = boxX % 2 == 0 ? true : false
+	  		let evenY = boxY % 2 == 0 ? true : false
+
+	  		coordinate.push( {x: pointer.x, y: pointer.y} )
+	  		pointer.x += boxWidth - thickness
+	  	  		
+	  		coordinate.push( {x: pointer.x, y: pointer.y} )
+
+	  		for (j = 0; j < boxY ; j++ ){
+	  			//down
+	  			if (j % 2 == 0) {
+	  				pointer.y -= boxJoint * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			} else {
+	  				pointer.x -= thickness
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.y -= boxJoint * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.x += thickness
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			}  			
+	  		}
+
+	  		if (evenY) {
+	  			coordinate.pop()
+	  		}
+
+	  		if (evenX) {
+	  			for (j = 0; j < boxX ; j++ ){
+		  			//left
+		  			if (j % 2 == 0){
+		  				pointer.x -= boxJoint
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  			} else {
+		  				pointer.y += thickness * test
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  				pointer.x -= boxJoint
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  				pointer.y -= thickness * test
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  			}
+				}
+				coordinate.pop()
+	  		} else {
+	  			let temp = coordinate.pop()
+	  			pointer.y += thickness * test
+	  			coordinate.push( {x: temp.x, y: pointer.y} )
+	  			for (j = 0; j < boxX ; j++ ){
+		  			//left
+		  			if (j % 2 == 0){
+		  				pointer.x -= boxJoint
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  			} else {
+		  				pointer.y -= thickness * test
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  				pointer.x -= boxJoint
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  				pointer.y += thickness * test
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  			}
+				}
+				pointer.y -= thickness * test
+	  		}
+
+
+			if (!evenY) {
+				let temp = coordinate.pop()
+				pointer.x += thickness
+				coordinate.push( {x: pointer.x, y: temp.y} )
+			}
+
+			if (firstPiece){
+		  		for (j = 0; j < boxY; j++ ){
+		  			//up
+		  			let reverse = 1
+		  			if (!evenY) 
+		  				reverse = -1
+
+		  			if (j % 2 == 0) {
+		  				pointer.y += boxJoint * test
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  			} else {
+		  				pointer.x += thickness * reverse
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  				pointer.y += boxJoint * test
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  				pointer.x -= thickness * reverse
+		  				coordinate.push( {x: pointer.x, y: pointer.y} )
+		  			}  
+					
+		  		}
+		  		firstPiece = false
+			} else {
+				pointer.y += boxJoint * test
+  				coordinate.push( {x: pointer.x, y: pointer.y} )	
+  				pointer.y += boxJoint * test * (boxY - 1)
+			}
+
+
+			if (evenY) {
+				coordinate.pop()
+			} else {
+				pointer.x -= thickness
+			}
+
+	  		lines += lineStart
+			for (j = 0; j < coordinate.length; j++){
+	  			lines+= coordinate[j].x + "," + coordinate[j].y + " "
+		  	}
+		  	lines += lineEnd
+		  	pointer.x += boxWidth
+	  	}
+
+  		pointer.x = start.x
+  		pointer.y -= (boxHeight + setDistance) * test
+	}
+	return lines
+
+}
+
+function drawBottom (width, height, thickness, boxWidth, boxDepth, boxJoint, repetition, setDistance, pointer, test) {
+
+	let lines = ''
+	const start = {x: pointer.x, y: pointer.y}
+	const multiples = Math.floor(width / boxWidth)
+	pointer.x -= thickness
+
+  	for ( k = 0; k < repetition; k++){
+
+  		let firstPiece = true
+
+	  	for ( i = 0; i < multiples ; i++ ) {
+	  		let coordinate = new Array()
+	  		
+	  		// Y is Depth
+	  		const boxX = boxWidth / boxJoint
+	  		const boxY = boxDepth / boxJoint
+	  		
+			let evenX = boxX % 2 == 0 ? true : false
+	  		let evenY = boxY % 2 == 0 ? true : false
+
+	  		coordinate.push( {x: pointer.x, y: pointer.y} )
+
+	  		for (j = 0; j < boxX ; j++ ){
+	  			//right
+	  			if (j % 2 == 0) {
+	  				pointer.x += boxJoint
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			} else {
+	  				pointer.y -= thickness * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.x += boxJoint
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.y += thickness * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			}  			
+	  		}
+
+	  		if (evenX) {
+	  			coordinate.pop()
+	  			const temp = coordinate.pop()
+	  			pointer.x = temp.x - thickness
+	  			pointer.y = temp.y
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.y += thickness * test
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.x += thickness
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  		}
+
+	  		for (j = 0; j < boxY ; j++ ){
+	  			//down
+	  			if (j % 2 == 0){
+	  				pointer.y -= boxJoint * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			} else {
+	  				pointer.x -= thickness 
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.y -= boxJoint * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.x += thickness
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			}
+			}
+
+	  		if (evenY) {
+	  			coordinate.pop()
+	  			const temp = coordinate.pop()
+	  			pointer.x = temp.x 
+	  			pointer.y = temp.y + thickness * test
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.x += thickness
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.y -= thickness * test
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  		}
+
+	  		for (j = 0; j < boxX; j++ ){
+	  			//left
+	  			if (j % 2 == 0) {
+	  				pointer.x -= boxJoint
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			} else {
+	  				pointer.y += thickness * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.x -= boxJoint
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.y -= thickness * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			}  
+				
+	  		}
+
+	  		if (evenX) {
+	  			coordinate.pop()
+	  			const temp = coordinate.pop()
+	  			pointer.x = temp.x + thickness
+	  			pointer.y = temp.y
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.y -= thickness * test
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.x -= thickness
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  		}
+
+	  		for (j = 0; j < boxY ; j++ ){
+	  			//up
+	  			if (j % 2 == 0){
+	  				pointer.y += boxJoint * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			} else {
+	  				pointer.x += thickness 
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.y += boxJoint * test
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  				pointer.x -= thickness
+	  				coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			}
+			}
+
+	  		if (evenY) {
+	  			coordinate.pop()
+	  			const temp = coordinate.pop()
+	  			pointer.x = temp.x 
+	  			pointer.y = temp.y - thickness * test
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.x -= thickness
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  			pointer.y += thickness * test
+	  			coordinate.push( {x: pointer.x, y: pointer.y} )
+	  		}
+
+	  		lines += lineStart
+			for (j = 0; j < coordinate.length; j++){
+	  			lines+= coordinate[j].x + "," + coordinate[j].y + " "
+		  	}
+		  	lines += lineEnd
+		  	pointer.x += boxWidth
+	  	}
+		pointer.y -= (boxDepth + setDistance) * test
+	}
+	return lines
+
+}
+
+
+
+function download(filename, text) {
+  var element = document.createElement('a');
+  element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+  element.setAttribute('download', filename);
+
+  element.style.display = 'none';
+  document.body.appendChild(element);
+
+  element.click();
+
+  document.body.removeChild(element);
+}
+
+// Start file download.
+
+</script>
+
+</body>
+</html>
