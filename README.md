@@ -4,8 +4,8 @@
 // Matters that I am passionate about.
 var Tanut = { 
     job: computer-mechanical-robotic engineer,
-    enjoy: making things,
-    dream: make_a_race_car,
+    enjoy: 'making things',
+    dream: 'make race cars',
 }
 ```
 
@@ -15,7 +15,7 @@ var Tanut = {
 
 If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a#i#l#.#c#o#m (Simply remove all # to get my email)
 
-<button type="button" onclick="window.open('/assets/resume_tanut_2021_6.pdf')">CV</button>
+<button type="button" onclick="window.open('/assets/resume2021_6.pdf')">CV</button>
 <button type="button" onclick="window.open('/assets/TanutPresentation_210803.pdf')">Presentation</button>
 
 [Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
