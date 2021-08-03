@@ -15,9 +15,10 @@ var Tanut = {
 
 If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a#i#l#.#c#o#m (Simply remove all # to get my email)
 
-[My Work Experience](/page/work)
+<button type="button" onclick="window.open('/assets/resume_tanut_2021_6.pdf'">CV</button>
+<button type="button" onclick="window.open('/assets/TanutPresentation_210803.pdf'">Presentation</button>
 
-[Low-Friction 12-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
+[Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
 
 * * *
 
