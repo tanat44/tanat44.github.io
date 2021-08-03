@@ -17,6 +17,8 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 [My Work Experience](/page/work)
 
+[Low-Friction 12-DOF Robot Hand (Master Thesis)](/asset/master_thesis.pdf)
+
 * * *
 
 ## Blogs
