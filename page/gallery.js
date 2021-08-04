@@ -35,8 +35,8 @@ class Gallery extends React.Component {
     render() {
         const state = this.state
         return (
-            state.images.map( i => 
-                <div className="gallery">
+            state.images.map( (i, index) => 
+                <div className="gallery" key={index}>
                     <a target="_blank" href={i.link}>
                         <img src={i.link} alt={i.description}/>
                     </a>
