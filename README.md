@@ -35,3 +35,7 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 [2019-06-19 Potato Airfryer](/post/2019-06-19-potato-airfryer)
 
 * * *
+
+## Paintings
+
+{% include_relative /page/gallery.html %}
