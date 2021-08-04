@@ -2,7 +2,8 @@ div.gallery {
 margin: 5px;
 border: 1px solid #ccc;
 display: inline-block;
-width: 180px;
+width: 200px;
+height: 200px;
 }
 
 div.gallery:hover {
@@ -11,10 +12,12 @@ border: 1px solid #777;
 
 div.gallery img {
 width: 100%;
-height: auto;
+height: 75%;
+object-fit: cover;
 }
 
 div.desc {
-padding: 15px;
+height: 25%;
 text-align: center;
+word-wrap: break-word;
 }
