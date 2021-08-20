@@ -24,6 +24,8 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
+[2021-08-20 Books I read](/post/booksiread)
+
 [2019-06-21 Box Joint Generator](/post/2019-06-21-box-joint-generator)
 
 <img src="/image/boxbox.png" height="200"/>
