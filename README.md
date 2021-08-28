@@ -25,6 +25,7 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 ## Blogs
 
 [2021-08-28 STM32 USB HID Joystick first test!](/post/2021-08-28-stm32-usb-joystick)
+
 <img src="/image/210828usbjoystickdevice.png" height="200"/>
 
 [2021-08-20 Books I read](/post/booksiread)

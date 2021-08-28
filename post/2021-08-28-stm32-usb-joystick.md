@@ -16,28 +16,38 @@ Back to the USB Joystick, I use STM32F103C8 (the blue pill) because
 I learned most the following steps from this youtube clip https://youtu.be/tj1_hsQ5PR0 Then I made some changes to make the precess suitable for "joystick" instead of "keyboard"
 
 1. On IOC file
+
     - Pinout & Configuration tab
-        = Go to "RCC", set "High Speed Clock" to "Crystal/Ceramic"
+
+        - Go to "RCC", set "High Speed Clock" to "Crystal/Ceramic"
         - Go to "SYS", set "Debug" to "Serial Wire"
         - Go to "USB", check "Device (FS)"
         - Go to "USB_DEVICE", on "Class For FS IP" select "Human Interface Device"
+
     - Clock Configuration tab
+
         - Press resolve clock issue
         - Set HCLK to 72 MHz
+
     - Save the file
+
 1. Open "usbd_hid.c" located in Middlewares > ST > STM32_USB_Device_Library > Class > HID > Src > usbd_hid.c
+
     - Find this line
         ```c
         0x02,         /*nInterfaceProtocol : 0=none, 1=keyboard, 2=mouse*/
         ```
         and change the original value 0x02 (for mouse) to 0x00 for joystick
+
     - Find this code section
+
         ```c
         __ALIGN_BEGIN static uint8_t HID_MOUSE_ReportDesc[HID_MOUSE_REPORT_DESC_SIZE]  __ALIGN_END = 
         {
             ...
         };
         ```
+
         All original content inside is an example of a mouse USB descriptor. Delete them and replace with our simple USB descriptor for a joystick.
         ```c
         0x05, 0x01, //; USAGE_PAGE (Generic Desktop)
@@ -55,12 +65,17 @@ I learned most the following steps from this youtube clip https://youtu.be/tj1_h
         ```
         In fact this descriptor is generated from a software called "HID Descriptor Tool" which can be downloaded from https://www.usb.org/hid
         . To have better understanding on how to create a custom destriptors (any line aboves and be customed), we need to learn the rules which can be found on the same site but they are overwhelming.
+
         - If we make our device talks in HID format (which we are doing), we can plug and play with the Windows. That's awesome.
+        
         - From my understanding, it says that a packet length from our HID joystick is one byte. The value of that byte denotes Button1-8, essentially 8 buttons = 8 boolean = 1 byte.
+
     - Ctrl click "HID_MOUSE_REPORT_DESC_SIZE" to go to the definition. Change it's value to "23U". Note that the number 23 is exactly the bytes count of the descriptor above. "U" explicit tells that the value is unsigned.
 
 1. Go to "main.c"
+
     - Add the following lines outside main
+
         ```c
         #include "usb_device.h"
         extern USBD_HandleTypeDef hUsbDeviceFS;
@@ -71,6 +86,7 @@ I learned most the following steps from this youtube clip https://youtu.be/tj1_h
         Report report = {0};
         ```
         Report stuct's size is one byte to match with the above descriptor
+
     - Inside while loop of the main function
         ```c
         report.BTN = 0x01;
