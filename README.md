@@ -24,7 +24,7 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
-[2021-09-03 Web-Sim-Racing](/asset/web-sim-racing/index.html) (reposting of an old unfinished project)
+[2021-09-03 Web-Sim-Racing](/assets/web-sim-racing/index.html) (reposting of an old unfinished project)
 
 <img src="/assets/web-sim-racing/images/200722.PNG" height="200"/>
 
