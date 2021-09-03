@@ -1,3 +1,4 @@
+import * as THREE from './build/three.module.js';
 export class Car {
 
     static NORTH = new THREE.Vector3(0,0,-1)
