@@ -1,6 +1,8 @@
 // import * as THREE from './build/three.module.js';
-import { GLTFLoader } from 'GLTFLoader.js';
-import { Car } from 'car.js';
+import { GLTFLoader } from './GLTFLoader.js';
+import { Car } from './car.js';
+
+
 
 var frustumSize = 200;
 var aspect = window.innerWidth / window.innerHeight;
