@@ -3,6 +3,15 @@
 I wish to keep this list alive by updating anytime I finish one book. The most recent ones are on top, ordering by chronological order.
 
 ---
+
+### **Senna Versus Prost**
+*Racing, Read in August 2021*
+
+I have heard this famous duel from almost anybody that is into this sport. When I was watching a Senna documentary on Youtube, I found another replay of Senna driving in the wet unbelivably faster than his competitors. I knew very little about Prost and Niki's book (below) makes me curious to know more about him. 
+
+So I have this book. I got to know more about Prost and Senna background. Their lifes before getting into F1 and during the time they are fighting each other at Mclaren. How did the situation develop? However, it says very very little about the events around Senna crash. I think the Senna's documentary that I watched before tells me more on Senna's crashing moment.
+
+---
 ### **Enzo Ferrari: A Life**
 *Racing, Read in 2021*
 
@@ -15,6 +24,33 @@ Since I drove a Ferrari at Silverstone and watching F1, I started to enjoy learn
 *Racing, Read in 2021*
 
 I knew very little about Niki. He was mentioned on many commentaries but the first time I really wanted to know more about him was around Monaco race when he has just passed away and people pay tributes to him. I started to watch some documentaries about him. Recently, I read a book about him. My personal take was you can pursue many interests in your life (he is a successful driver and he owns the airline).
+
+
+---
+### **The World Atlas of Coffee**, James Hoffmann
+*Coffee, Read in 2021*
+
+I like his youtube channel because I think his experiments sound scientific and reproducable. Thought I could hardly taste the different when I tried myself. I simply need more exposure to differential such a little difference. 
+
+I like the first half of the book which is about coffee history. Since the main theme of this book is more of the encyclopedia, I think it's no exciting moment when reading. I would like to see more in future book about his thought on coffee things from a fair perspective (more opinion based not factual). The second half I didn't finish it because it is all about coffee growing regions (discretely explained by region). I sometimes revisit this section when I bought a new bean from a new region to learn the background.
+
+---
+### **Total Competition**, Ross Brawn and Adam Parr
+*Racing, Read in 2021*
+
+Reading about a famous engineering personnel - Brawn - only makes me wanted to be in F1 more. I wish I had such book earlier when I was young to get inspired but of course when I was young, I wasn't into F1, so I wouldn't have gotten inspired anyway. It's never been too late to get inspired.
+
+This book is presented in Q&A format between Ross and Adam, whom I have never heard his name. I like when Ross giving answer and one particular thing I still remembered was sometime like - there's no championship winner with poor car, poor driver, or poor team finance. It's like you need everything to come at once to deliver a perfect result. There was a retrospective analysis of Ross himself after key moment in  his career which is very interesting to hear from the man himself. 
+
+On the Adam Parr section, I skimmed through sections when he talks about Sunzi Chinese Military book. I probably need to go read that book before understanding the relavance.
+
+---
+### **Mark Webber**
+*Racing, Read in 2021*
+
+When I looked back at the F1 championship history, I saw his name for 2009 and not many people talk about him nowadays besides the 2009 season. I like how he developed his career before F1 and how important it's to be in Europe to develop the career in racing as he's an Australian.
+
+For 2009 season, I was expecting, not a very detail explanation about this season because it's probably more on the engineering side but his career at Redbull is fun to read and quite addictive because of a tense livary with Vettel. By opening this chaptor, it makes me want to read more about Redbull, Vettel, Helmul Marco. (I read about Adrian Newey before.)
 
 ---
 ### **Harry Potter Book 1**
