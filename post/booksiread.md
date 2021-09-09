@@ -48,9 +48,7 @@ On the Adam Parr section, I skimmed through sections when he talks about Sunzi C
 ### **Mark Webber**
 *Racing, Read in 2021*
 
-When I looked back at the F1 championship history, I saw his name for 2009 and not many people talk about him nowadays besides the 2009 season. I like how he developed his career before F1 and how important it's to be in Europe to develop the career in racing as he's an Australian.
-
-For 2009 season, I was expecting, not a very detail explanation about this season because it's probably more on the engineering side but his career at Redbull is fun to read and quite addictive because of a tense livary with Vettel. By opening this chaptor, it makes me want to read more about Redbull, Vettel, Helmul Marco. (I read about Adrian Newey before.)
+I have heard his name quite often in the commentaries because he appears as one of the commentators. His career at Redbull is fun to read and quite addictive because of a tense livary with Vettel. By opening this chaptor, it makes me want to read more about Redbull, Vettel, Helmul Marco. (I read about Adrian Newey before.)
 
 ---
 ### **Harry Potter Book 1**

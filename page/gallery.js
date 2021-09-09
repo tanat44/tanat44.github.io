@@ -4,7 +4,15 @@ class Gallery extends React.Component {
         super(props);
         this.state = {
             images: [
-
+                // ADD MORE IMAGES HERE (NEWEST ONE ON THE TOP)
+                {
+                    link: 'https://i.pinimg.com/originals/06/15/52/0615529bc508998eb758393acaef5f18.jpg',
+                    description: 'Suzuki Swift (Wacom + Krita)'
+                },
+                {
+                    link: 'https://i.pinimg.com/originals/8e/41/0b/8e410b44f3d0cb4d7ed5957ab5cb09bd.jpg',
+                    description: 'Toyota GR86'
+                },
                 {
                     link: 'https://i.pinimg.com/originals/67/fa/40/67fa4031e7355e21b362ae62ed572356.jpg',
                     description: 'Porsche 911'
@@ -22,6 +30,7 @@ class Gallery extends React.Component {
                     link: 'https://i.pinimg.com/originals/5a/b2/f4/5ab2f478b99d197881d653f17de3adaf.jpg',
                     description: 'Saint Louis Mansion Drizzling'
                 },
+
             ]
         };
     }
