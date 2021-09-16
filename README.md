@@ -24,6 +24,8 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
+[2021-09-16 Homemade Ramen Recipe](/post/ramen-recipe)
+
 [2021-09-13 How to setup Ubuntu Desktop on Headless Server (Remote Desktop)](/post/2021-09-13-ubuntu-desktop-on-headless-server)
 
 [2021-09-13 How to use Windows Explorer to access remote file over SSH
