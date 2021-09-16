@@ -3,7 +3,7 @@
 It's my first time making ramen and I think it worth taking a note.
 
 ### What's ramen?
-I thought initially it was some flour mixed with egg (white+yoke) to make it yellowist look and chewey texture. No, **it's a dough of flour but mixed with alkaline solution (base solution)**
+I thought initially it was some flour mixed with egg (white+yolk) to make it yellowist look and chewey texture. No, **it's a dough of flour but mixed with alkaline solution (base solution)**
 This blew my mind when I first read about it [Here](https://zestyandspicy.com/kitchen-science/what-sodium-carbonate-can-do-for-you/)
 
 This makes sense when you see some authentic ramen uses alkaline water from the lake. 
