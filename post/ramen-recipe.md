@@ -3,7 +3,7 @@
 It's my first time making ramen and I think it worth taking a note.
 
 ### What's ramen?
-I thought initially it was some flour mixed with egg (white+yolk) to make it yellowist look and chewey texture. No, **it's a dough of flour but mixed with alkaline solution (base solution)**
+I thought initially it was some flour mixed with egg (white+yolk) to make it yellowish look and chewy texture. No, **it's a dough of flour but mixed with alkaline solution (base solution)**
 This blew my mind when I first read about it [Here](https://zestyandspicy.com/kitchen-science/what-sodium-carbonate-can-do-for-you/)
 
 This makes sense when you see some authentic ramen uses alkaline water from the lake. 
@@ -18,7 +18,9 @@ This makes sense when you see some authentic ramen uses alkaline water from the 
         - 1% w/w of NaCO3 
         - 1% w/w of Salt
     - Rest for an hour
-    - Shape it using corn flour dust
+    - Shape it using cornflour dust
+    - Boil for 1.5min for Katame, 2min for medium
 
 ### Taste?
-TBC
+Unbelievable!
+![](/image/ramen.jpg)
