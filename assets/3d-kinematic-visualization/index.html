@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>KinematicSimulator</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unityCanvas" width=960 height=600 style="width: 960px; height: 600px; background: #231F20"></canvas>
+    <br/>
+    <button id="sendButton">Send to Unity</button> <br/>
+    <h3>Only support one object. Time is absolute clock second. Angle in degree. Always add 'Enter' after final keyframe. Enjoy!</h3>
+    <textarea id="timeline" rows = "30" cols = "120" name = "description">
+time 0 object box visible color LtYellow pos 0, 1, 0 vel 1, 0, 1 acc 0, 0, 0 rot 0, 45, 45 rvel 0, 0, 0 racc 0, 0, 0
+
+time 1.0 object box visible color LtYellow pos 3, 3, 3 vel -1, 0, -1 acc 0, 0, 0 rot 0, 0, 0 rvel 0, -3, 0 racc 0, 0, 0
+
+time 3.0 object box visible color LtYellow pos 3, 8, 0 vel -1, 0, 0 acc 0, -3, 0 rot 0, 0, 0 rvel 0, 0, 0 racc 0, 0, 0
+
+time 6.0 object box visible color LtYellow pos 0, 2, 0 vel 0, 0, 0 acc 0, 0, 0 rot 0, 0, 0 rvel 0, 0, 0 racc 0, 0, 1 
+
+    </textarea><br>
+
+    <script src="Build/Build.loader.js"></script>
+    <script>
+      var unityInstance;
+      
+      createUnityInstance(document.querySelector("#unityCanvas"), {
+        dataUrl: "Build/Build.data.gz",
+        frameworkUrl: "Build/Build.framework.js.gz",
+        codeUrl: "Build/Build.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "DefaultCompany",
+        productName: "KinematicSimulator",
+        productVersion: "0.1",
+        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
+        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
+      }).then((instance) => {
+          unityInstance = instance
+        }).catch((message) => {
+          alert(message);
+        });
+
+      const fileElement = document.getElementById("file-input");
+      const sendButton = document.getElementById("sendButton").addEventListener("click", ()=>{
+        let text = document.getElementById("timeline").value;
+        console.log("sending to unity")
+        unityInstance.SendMessage('Director', 'RunTimeline', text);
+      })
+      
+    </script>
+  </body>
+</html>

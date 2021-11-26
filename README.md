@@ -24,6 +24,8 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
+[2021-11-26 Keyframe-based 3D Kinematic Visualization](/assets/3d-kinematic-visualization/index.html)
+
 [2021-09-16 Homemade Ramen Recipe](/post/ramen-recipe)
 
 <img src="/image/ramen.jpg" height="200"/>
@@ -37,8 +39,6 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 (reposting of an old unfinished project)
 
 <img src="/assets/web-sim-racing/images/200722.PNG" height="200"/>
-
-
 
 [2021-08-28 STM32 USB HID Joystick first test!](/post/2021-08-28-stm32-usb-joystick)
 
