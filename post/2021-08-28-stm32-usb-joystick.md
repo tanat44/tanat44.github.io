@@ -5,6 +5,8 @@
 It's a small step for me towards creating my own USB device. For this particular project, I wanted to create a sim racing shifter which I have somewhat develop the mechanism couple of weeks ago. (Work in progress)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8b57a7hNR6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Download the 3D models of the gear shifter (STEP file) from [Here](/assets/simracing_shifter.step)
+
 Back to the USB Joystick, I use STM32F103C8 (the blue pill) because
 
 - I learn that they are cheap ~4USD
