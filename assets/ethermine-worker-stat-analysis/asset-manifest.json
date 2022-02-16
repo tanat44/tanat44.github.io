@@ -9,7 +9,7 @@
     "787.d0301e77.chunk.js.map": "assets/ethermine-worker-stat-analysis/static/js/787.d0301e77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1d0721b.css",
-    "static/js/main.9f0c7915.js"
+    "assets/ethermine-worker-stat-analysis/static/css/main.c1d0721b.css",
+    "assets/ethermine-worker-stat-analysis/static/js/main.9f0c7915.js"
   ]
 }
