@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "assets/ethermine-worker-stat-analysis/static/css/main.c1d0721b.css",
-    "main.js": "assets/ethermine-worker-stat-analysis/static/js/main.9f0c7915.js",
-    "static/js/787.d0301e77.chunk.js": "assets/ethermine-worker-stat-analysis/static/js/787.d0301e77.chunk.js",
-    "index.html": "assets/ethermine-worker-stat-analysis/index.html",
-    "main.c1d0721b.css.map": "assets/ethermine-worker-stat-analysis/static/css/main.c1d0721b.css.map",
-    "main.9f0c7915.js.map": "assets/ethermine-worker-stat-analysis/static/js/main.9f0c7915.js.map",
-    "787.d0301e77.chunk.js.map": "assets/ethermine-worker-stat-analysis/static/js/787.d0301e77.chunk.js.map"
+    "main.css": "static/css/main.c1d0721b.css",
+    "main.js": "static/js/main.9f0c7915.js",
+    "static/js/787.d0301e77.chunk.js": "static/js/787.d0301e77.chunk.js",
+    "index.html": "index.html",
+    "main.c1d0721b.css.map": "static/css/main.c1d0721b.css.map",
+    "main.9f0c7915.js.map": "static/js/main.9f0c7915.js.map",
+    "787.d0301e77.chunk.js.map": "static/js/787.d0301e77.chunk.js.map"
   },
   "entrypoints": [
-    "assets/ethermine-worker-stat-analysis/static/css/main.c1d0721b.css",
-    "assets/ethermine-worker-stat-analysis/static/js/main.9f0c7915.js"
+    "static/css/main.c1d0721b.css",
+    "static/js/main.9f0c7915.js"
   ]
 }
