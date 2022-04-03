@@ -1,6 +1,25 @@
 # Books I read
 
-I wish to keep this list alive by updating anytime I finish one book. The most recent ones are on top, ordering by chronological order.
+I wish to keep this list alive by updating anytime I finish one book. The most recent ones are on top, ordered by finishing dates.
+
+---
+### **Layered Money, Nik Bhatia**
+*History, Read in 2022*
+
+Bitcoin, Crypto, to be honest I felt skeptical since it's gained so much attention over the past few years, as for trading/buy&sell/making-profit. Until, one of the colleage who is so much into it talks about the story of money when we first met around end of last year. I started to realize that I was way too bias than I actually know about it. I started to learn about Etherium mining. I mined and cashed out the first 10 dollars. Then, it's all started to get interesting. It's such a pity being programmer but actually knowing nothing about this upcoming tech.
+
+After 3 months, I met the same Bitcoin guy for the second time. He talked about this book that he just finished. I am into the book because it's not about Bitcoin or Crypto but it's more about "the history of money". It's interesting to actually learn what's money, how was it developed and to judge by yourself if crypto is a possible/potential/future-proven solution to the leveled economics.
+
+---
+
+### **Guns Germs & Steels, Jared Diamond**
+*History, Read in 2021*
+
+I am such a person who rarely knows what's popular. This book is another good example that was introduced by my girl friend. I always wonder about the counties wealthiness. Why is Thailand still a developing coutries? What makes us different from the European countries? The more I travel the world, more I understood that the education plays a major part in today's society but what influences a good education before today. I have never asked myself why. What if you insist on asking why and never satisfy with a simple answer? I believe such thought process had been applied here in this book to find the ultimate proof of 1=1.
+
+The author use a scientic approach (i.e. experiment) on 'History' subject which is particularly interesting to learn how things work similary but also different. This particular part of the book I enjoyed reading the most. 
+
+This book compliments "Sapiens" very well. Sapiens talks why humans are superior over other animals. His book talks about the stories among group of human (nations / countries). What has happened and in retrospective why they happened that way.
 
 ---
 

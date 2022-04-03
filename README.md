@@ -24,6 +24,13 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
+[2022-04-03 (Updated!) Books I read](/post/booksiread)
+
+[2022-04-03 Goodbye Simracing-Rig](/post/2022-04-03-goodbye-simracing-rig)
+<img src="/image/simrig4.jpg" height="200"/>
+
+[2021-11-17 GÖtenburg lesson](/post/2021-11-17-gotenborg)
+
 [2021-11-26 Keyframe-based 3D Kinematic Visualization](/assets/3d-kinematic-visualization/index.html)
 
 [2021-09-16 Homemade Ramen Recipe](/post/ramen-recipe)
@@ -43,8 +50,6 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 [2021-08-28 STM32 USB HID Joystick first test!](/post/2021-08-28-stm32-usb-joystick)
 
 <img src="/image/210828usbjoystickdevice.png" height="200"/>
-
-[2021-08-20 Books I read](/post/booksiread)
 
 [2019-06-21 Box Joint Generator](/post/2019-06-21-box-joint-generator)
 
