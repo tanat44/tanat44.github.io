@@ -27,6 +27,7 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 [2022-04-03 (Updated!) Books I read](/post/booksiread)
 
 [2022-04-03 Goodbye Simracing-Rig](/post/2022-04-03-goodbye-simracing-rig)
+
 <img src="/image/simrig4.jpg" height="200"/>
 
 [2021-11-17 GÖtenburg lesson](/post/2021-11-17-gotenborg)
