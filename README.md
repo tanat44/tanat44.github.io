@@ -24,7 +24,7 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
-[2022-04-03 (Updated!) Books I read](/post/booksiread)
+[2022-04-10 (Updated!) Books I read](/post/booksiread)
 
 [2022-04-03 Goodbye Simracing-Rig](/post/2022-04-03-goodbye-simracing-rig)
 
