@@ -3,6 +3,26 @@
 I wish to keep this list alive by updating anytime I finish one book. The most recent ones are on top, ordered by finishing dates.
 
 ---
+### **The Unknown Kimi Raikkonen**
+*Racing, Read in June 2022*
+
+I picked up this book because it's cheap and at that time he was about to quit F1. On the TV, Kimi has a very distict personalities compared to other driver -- more towards on bullshit talk. This book is a bit different from other racing biography books that I have read. All of the other ones, so far, are written by the F1 reporters or the person himself. Those books offer more inside view of prople in this industry whilst this book is written by a fiction writer. From a non-F1 fan perspective, story is described in a normal fashion. It's more of what this profession is like.
+
+When I was studying Master, I had one Finish friend. I recently transitted in Finland, saw the Moomin cafe, walk passed shops in the airport that made me feel like Japanese-styled European - simple minimal styling. Kimi is another story appended to my Finish story collection.
+
+---
+### **Thinking, Fast and Slow, Daniel Kahneman**
+*Psychology, Read in May 2022*
+
+How could you skip a book of the Noble prize? Of course, whatever from Nobel prize has such an illusion but the only way to judjudgeege by yourself whether it's an illusion or something meaningful is by experiencing it. This is one of the book that takes me the longest to finish, so much so that I would like to add ... slow (reading) ... to the title. I carried it to many places / countries I have been visiting in the past year - USA / Sweden / Netherland / many more provinces in Thailand. It's a very good sleeping pill while I am on the airplane -- just because the content is so so heavy. I am glad that I finished it now and it worths reading.
+
+Almost every second page there are mental experiment for the reader to work out. Most of the time you are given 2 choices to choose in different situations. It's easy to skip the mental experimenting part and jump to the summary paragraph but as I have some background in probability (Math), I take time with pen and paper to really use the System 2 (analytic part of the brain) to compute the resulting chances before making decision. Most probably I found my conflicting self as explained through out the book.
+
+I initially thought that I wouldn't read the appendix -- two academic papers written in an even smaller characters. I started looking at it after finishing the last chapter and giving a try. I was hooked up by the nature of hournal paper which is very concise and it recaps the whole thought of this book well. I don't think I would be impressed reading these two journals without going through the book because they are totally different kind of sciences that I got used to.
+
+We human are every emotional (explained as System 1 brain) rather than than rational / logical (System 2 thinking) but that is how we differ ourselves from computer, I think. This book is highly recommended. Only I learn more about Psychology of human beings, I also go to refresh my knowledge on probability theory. 
+
+---
 ### **Surrounded by idiots, Thomas Erikson**
 *Psychology, Read in April 2022*
 
