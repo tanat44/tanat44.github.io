@@ -2,6 +2,22 @@
 
 I wish to keep this list alive by updating anytime I finish one book. The most recent ones are on top, ordered by finishing dates.
 
+———
+### **The Bomber Mafia**
+*History, Read in July 2022*
+
+I got this book from Philadelphia airport while I was waiting for the next flight to Louisville. As a side story, I still feel that I am such a lucky one working for this job - challenging work, and giving me chances to visit the world. I finished the previous book during the first 18h hour flight (Bangkok > Doha > Philadelphia), so I went into the book store looking for a new one. 
+
+This book caught my eyes as one of the best seller. It didn’t take me too long to finish it because it was relatively thin (150 pages maybe). It talks about the story of army commander during WW2. Good for killing time but nothing much aside..
+
+——-
+### **Anxios People, Fredrik Backman**
+*Fiction, Read in July 2022*
+
+Whoa!! I almost forgot to write about this book. I am not such a fiction person but my wife really recommend me this one. It’s the first time I feel that I can’t close the book and keep reading till the end. This is the best book I have had for the first half of 2022 so far.
+
+It’s the story of many random things happening in Sweden. The author put together unlikely set of events in the society but when they combined, they made me feel that YES! IT’S SO REAL especially in Swedish setting (me seeing from outside). Imagine to yourself, if you need to write story with all following keywords what would it be - Cashless society / Got fired / Pizza / Housing crisis / Apartment viewing / Same-sex relationship / IKEA / Renovation / Bridge / Psychologist / Police. I can’t imagine a better story!
+
 ---
 ### **The Unknown Kimi Raikkonen**
 *Racing, Read in June 2022*
