@@ -19,7 +19,7 @@ I learnt this formula in the science lesson first time during middle school, the
 1. If u = 2f , magnification = 1 and flip direction image
 1. If u < f, magnification > 1 and original direction image 
 
-I thought I knew it well almost by heart but today’s visit to **De Pont Museum of Contemporary Art, Tilburg, Netherlands** learn me the Physics. 
+I thought I knew it well almost by heart but today’s visit to **De Pont Museum of Contemporary Art, Tilburg, Netherlands** teach me the Physics for one more time.
 
 Knowing is not seeing.
 ![](/image/lens-formula1.jpeg)
