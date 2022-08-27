@@ -24,6 +24,8 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
+[2022-08-27 Duplo Train](/post/2022-08-27-deplo-train)
+
 [2022-08-21 Len’s formula in Art Museum](/post/2022-08-21-lens-formula-in-art-museum)
 
 [2022-06-04 (Updated!) Books I read](/post/booksiread)
