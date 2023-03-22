@@ -9,7 +9,7 @@ var Tanut = {
 }
 ```
 
-* * *
+---
 
 ## About Me
 
@@ -20,9 +20,11 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 [Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
 
-* * *
+---
 
 ## Blogs
+
+[2023-03-22 Road Builder](/assets/road-builder/index.html)
 
 [2022-10-24 Survival Choreograph](/post/2022-10-24-survival-choreograph)
 
@@ -70,7 +72,7 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 [2019-06-19 Potato Airfryer](/post/2019-06-19-potato-airfryer)
 
-* * *
+---
 
 ## Paintings
 
