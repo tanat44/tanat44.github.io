@@ -47,7 +47,7 @@ Weight saving from upgrade -1352g
 
 Weight after upgrade 10.4kg (with rear carrier)
 
-{% include_relative ../components/carousel/index.html baseUrl="/image/bicycle/road" images="before.jpg|after.jpg" autoRefPrefix="part" autoRefSuffix=".jpg" autoRefFrom="1" autoRefTo="21" %}
+{% include_relative ../components/carousel/index.html %}
 
 ## The Mountain Bike
 
