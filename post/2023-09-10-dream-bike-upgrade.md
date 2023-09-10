@@ -46,6 +46,8 @@ Weight saving from upgrade -1352g
 
 Weight after upgrade 10.4kg (with rear carrier)
 
+{% include_relative /components/carousel/?baseUrl=/image/bicycle/road&images=before.jpg|after.jpg&autoRefPrefix=part&autoRefSuffix=.jpg&autoRefFrom=1&autoRefTo=21%}
+
 ## The Mountain Bike
 
 Mountain biking has always been something I wanted to learn. I was lucky that a friend is into it. We went mountain biking around Dortmund, Germany with his friend. I didn't have the bike, so my Dutch friend lent one to me. It was another Decathlon bike (how could I not love it?) of this brother's son. By now, the son has gone too big to fit the frame but it was just right for my size.
