@@ -29,6 +29,7 @@ What else I've ever dream of upgrading the bike? Of course, carbon fork, hollow 
 | **Total** | **269 EUR** | 
 
 ***Weight comparison***
+
 | Old Part | Weight | New Part | Weight | Wight Diff (New - Old) | 
 | -- | -- | -- | -- | -- | 
 | A pair of Microshift shifter 1x8 speed | 418g | A pair of LTwoo shifter 1x10 speed | 428g | +10g |
@@ -69,6 +70,7 @@ Since I would be upgrading my road bike, why not piggyback this opportunity and 
 | **Total** | **427 EUR** |
 
 ***Weight comparison***
+
 | Old Part | Weight | New Part | Weight | Wight Diff (New - Old) | 
 | -- | -- | -- | -- | -- | 
 | Original suspension fork | 2718g | Bolany Air Suspension Fork 27.5 inch | 1818g | -900g | 
