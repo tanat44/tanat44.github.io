@@ -4,6 +4,14 @@ I wish to keep this list alive by updating anytime I finish one book. The most r
 
 ---
 
+### **The Phoenix Project**
+
+_Fiction, Read in Dec 2023_
+
+This book is probably by far my quickest fiction book to finish. I believe I had only couple of reading sessions on this book (< 10) before I finished it. It's very nerdy fiction about DevOps - Software Developer / System deployment. It feels so real as if something similar is already happening in the current company I am working for. 2 years ago when I started working for this company, I thought devops was something extra / unnecessary but more and more I learn about the principle, more complicated the products get, devops is undeniably the way forward. Now that I practice it day-in-day-out, I feel that devops is just part of the development process - like how ide, git become part of the work flow. This book visualizes to devops can help you in a very easy to read and understand fictional story.
+
+---
+
 ### **The Midnight Library, Matt Haig**
 
 _Fiction, Read in Feb 2023_
