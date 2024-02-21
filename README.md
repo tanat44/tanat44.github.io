@@ -24,6 +24,8 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 
 ## Blogs
 
+[2024-02-21 How many more Japan in my life?](/post/2024-02-21-how-many-more-japan)
+
 [2023-09-10 Dream Bike Upgrade](/post/2023-09-10-dream-bike-upgrade)
 
 [2023-03-22 Road Builder](/assets/road-builder/index.html)
