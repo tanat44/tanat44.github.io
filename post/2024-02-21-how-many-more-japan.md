@@ -32,3 +32,5 @@ This time it makes me a strong believer of Japan. They have got everything to of
 ### .. How many more times I gotta be here in this life?
 
 ### .. What would be life be without Japan?
+
+![My family](/image/japan-tanut-ja.jpg)
