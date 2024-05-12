@@ -15,7 +15,7 @@ var Tanut = {
 
 If you have interesting projects / works, let's have a chat at t#a#n#a#t#4#4#@#g#m#a#i#l#.#c#o#m (Delete all # to get my email)
 
-| Resume [2024](/assets/resume2024_5.pdf) | [2021](/assets/TanutPresentation_210803.pdf) | [2016](/assets/resume2021_6.pdf') |
+Resume [2024](/assets/resume2024_5.pdf) [2021](/assets/TanutPresentation_210803.pdf) [2016](/assets/resume2021_6.pdf')
 
 [Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
 
