@@ -1,6 +1,28 @@
-# Books I read
+# All books that I read
 
-I wish to keep this list alive by updating anytime I finish one book. The most recent ones are on top, ordered by finishing dates.
+I wish to keep this list alive by updating it every time I finish one book. The most recent reads are on top, ordered by finishing dates.
+
+---
+
+### **Four thousand weeks, Oliver Burkeman**
+
+_Personal development?, Read in May 2024_
+
+Reading the title, I would expect the book to tell you a trick to do much more (quantity) in your limited life time (lifthack-ish) but I was totally wrong. I know time is invariant to how we spend but why? and what's the quality of time? Thanks to the wife who recommend me this book. 
+
+Based on the definition giving by the book, I would call myself a productivity geek -- I care about how time is being spent -- but at the same time I own the care-free character --I only care that I care (growing up I notice I have less-and-less of such quality). In fact, these two universe merges and well described by the author.
+
+It took me very long to read this book (1 year possibly) because there's so much to digest on top of some difficult vocabularies. Worth reading!
+
+---
+
+### **A short history of nearly everything, Bill Bryson**
+
+_Science, Read in April 2024_
+
+I like Science, especially Physics which I think it's the ultimate subject among other since subjects. Today's technology is impossible without other sciences - biology, physiology, geology, and many more. I was wrong at overvaluing the Physics over other matters. This book give me a tour to the comprehensive history of sciences. How a discover on one matter subject, helps development in other fields.
+
+I know we are small compared to solar system. I know we are big compared to atoms. But I wouldn't say I truly understand the relative size of the matters. This book explains them well and very easy to comprehend the beauty of mother nature.
 
 ---
 
@@ -15,6 +37,8 @@ This book is probably by far my quickest fiction book to finish. I believe I had
 ### **The Midnight Library, Matt Haig**
 
 _Fiction, Read in Feb 2023_
+
+(I like it really. But too bad I didn't write my thought here when the memory was fresh.)
 
 ———
 

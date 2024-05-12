@@ -13,12 +13,13 @@ var Tanut = {
 
 ## About Me
 
-If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a#i#l#.#c#o#m (Simply remove all # to get my email)
+If you have interesting projects / works, let's have a chat at t#a#n#a#t#4#4#@#g#m#a#i#l#.#c#o#m (Delete all # to get my email)
 
-<button type="button" onclick="window.open('/assets/resume2021_6.pdf')">CV</button>
-<button type="button" onclick="window.open('/assets/TanutPresentation_210803.pdf')">Presentation</button>
+Resume [Latest](/assets/resume2024.pdf) | [2021](/assets/TanutPresentation_210803.pdf) | [2016](/assets/resume2021_6.pdf')
 
 [Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
+
+[Books](/post/booksiread) that I read
 
 ---
 
@@ -38,8 +39,6 @@ If you have some interesting project, let's have a chat at t#a#n#a#t#4#4#@#g#m#a
 [2022-08-27 Duplo Train](/post/2022-08-27-duplo-train)
 
 [2022-08-21 Len’s formula in Art Museum](/post/2022-08-21-lens-formula-in-art-museum)
-
-[2022-06-04 (Updated!) Books I read](/post/booksiread)
 
 [2022-05-21 GÖtenburg2](/post/2022-05-21-gotenborg)
 
