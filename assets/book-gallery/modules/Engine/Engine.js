@@ -33,10 +33,10 @@ export class Engine {
   }
 
   initEvent() {
-    this.element.addEventListener("wheel", (e) => {
-      console.log(e);
-      e.preventDefault();
-    });
+    // this.element.addEventListener("wheel", (e) => {
+    //   console.log(e);
+    //   e.preventDefault();
+    // });
 
     this.element.addEventListener("mousemove", (e) => this.mouseMove(e));
   }
