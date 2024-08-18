@@ -19,7 +19,9 @@ Resume [2024](/assets/resume2024_5.pdf) [2021](/assets/TanutPresentation_210803.
 
 [Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
 
-[Books](/post/booksiread) that I read
+[Books that I read](/post/booksiread)
+<canvas id="gallery" width="800" height="300">
+  <script type="module" src="/assets/book-gallery/main.js"></script>
 
 ---
 

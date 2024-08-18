@@ -1,0 +1,148 @@
+{
+  "books": [
+    {
+      "title": "Masters of DOOM",
+      "imagePath": "masters-of-doom.jpg",
+      "readMonth": 8,
+      "readYear": 2024
+    },
+    {
+      "title": "Four thousand weeks, Oliver Burkeman",
+      "imagePath": "four-thousand-week.jpg",
+      "readMonth": 5,
+      "readYear": 2024
+    },
+    {
+      "title": "A short history of nearly everything, Bill Bryson",
+      "imagePath": "a-short-history-of-nearly-everything.jpg",
+      "readMonth": 4,
+      "readYear": 2024
+    },
+    {
+      "title": "The Phoenix Project",
+      "imagePath": "the-phoenix-project.jpg",
+      "readMonth": 12,
+      "readYear": 2023
+    },
+    {
+      "title": "The Midnight Library, Matt Haig",
+      "imagePath": "the-midnight-library.jpg",
+      "readMonth": 2,
+      "readYear": 2023
+    },
+    {
+      "title": "The Bomber Mafia",
+      "imagePath": "the-bomber-mafia.jpg",
+      "readMonth": 7,
+      "readYear": 2022
+    },
+    {
+      "title": "Anxios People, Fredrik Backman",
+      "imagePath": "anxious-people.jpg",
+      "readMonth": 7,
+      "readYear": 2022
+    },
+    {
+      "title": "The Unknown Kimi Raikkonen",
+      "imagePath": "the-unknown-kimi-raikkonen.jpg",
+      "readMonth": 6,
+      "readYear": 2022
+    },
+    {
+      "title": "Thinking, Fast and Slow, Daniel Kahneman",
+      "imagePath": "thinking-fast-and-slow.jpg",
+      "readMonth": 5,
+      "readYear": 2022
+    },
+    {
+      "title": "Surrounded by idiots, Thomas Erikson",
+      "imagePath": "surrounded-by-idiots.jpg",
+      "readMonth": 4,
+      "readYear": 2022
+    },
+    {
+      "title": "Layered Money, Nik Bhatia",
+      "imagePath": "layered-money.jpg",
+      "readMonth": 3,
+      "readYear": 2022
+    },
+    {
+      "title": "Guns Germs & Steels, Jared Diamond",
+      "imagePath": "guns-germs-and-steel.jpg",
+      "readMonth": 12,
+      "readYear": 2021
+    },
+    {
+      "title": "Senna Versus Prost",
+      "imagePath": "senna-versus-prost.jpg",
+      "readMonth": 8,
+      "readYear": 2021
+    },
+    {
+      "title": "Enzo Ferrari: A Life",
+      "imagePath": "enzo-ferrari-a-life.jpg",
+      "readMonth": null,
+      "readYear": 2021
+    },
+    {
+      "title": "To Hell and Back, Niki Lauda",
+      "imagePath": "to-hell-and-back.jpg",
+      "readMonth": null,
+      "readYear": 2021
+    },
+    {
+      "title": "The World Atlas of Coffee, James Hoffmann",
+      "imagePath": "the-world-atlas-of-coffee.jpg",
+      "readMonth": null,
+      "readYear": 2021
+    },
+    {
+      "title": "Total Competition, Ross Brawn and Adam Parr",
+      "imagePath": "total-competition.jpg",
+      "readMonth": null,
+      "readYear": 2021
+    },
+    {
+      "title": "Mark Webber",
+      "imagePath": "mark-webber.jpg",
+      "readMonth": null,
+      "readYear": 2021
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "imagePath": "harry-potter-and-the-philosopher's-stone.jpg",
+      "readMonth": null,
+      "readYear": 2019
+    },
+    {
+      "title": "Sepiens: A Brief History of Humankind, Yuval Noah Harari",
+      "imagePath": "sepians.jpg",
+      "readMonth": null,
+      "readYear": 2019
+    },
+    {
+      "title": "Lewis Hamilton: My Story",
+      "imagePath": "lewis-hamilton-my-story.jpg",
+      "readMonth": null,
+      "readYear": 2018
+    },
+    {
+      "title": "Prepare to Win, Carroll Smith",
+      "imagePath": "prepare-to-win.jpg",
+      "readMonth": null,
+      "readYear": 2018
+    },
+    {
+      "title": "The Technique of Motor Racing, Piero Taruffi",
+      "imagePath": "the-technique-of-motor-racing.jpg",
+      "readMonth": null,
+      "readYear": 2018
+    },
+    {
+      "title": "Tune to Win, Carroll Smith",
+      "imagePath": "tune-to-win.jpg",
+      "readMonth": null,
+      "readYear": 2018
+    }
+  ]
+}
