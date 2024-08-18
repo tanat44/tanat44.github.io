@@ -140,7 +140,7 @@ Since I drove a Ferrari at Silverstone and watching F1, I started to enjoy learn
 
 ---
 
-### **To Hell and Back by Niki Lauda**
+### **To Hell and Back, Niki Lauda**
 
 _Racing, Read in 2021_
 
@@ -178,7 +178,7 @@ I have heard his name quite often in the commentaries because he appears as one 
 
 ---
 
-### **Harry Potter Book 1**
+### **Harry Potter and the Philosopher's Stone**
 
 _Fiction, Read in 2019_
 
