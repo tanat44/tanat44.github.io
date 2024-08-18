@@ -14,6 +14,8 @@ export class BookGallery {
   }
 
   animate() {
+    this.drawTitle();
+
     const y = this.engine.ctx.height / 2 + 10;
     const pad = 100;
     const bookHeight = 150;
@@ -36,6 +38,16 @@ export class BookGallery {
       pad + stepSize * this.selectedBookIndex,
       y - 30,
       bookHeight * 1.5
+    );
+  }
+
+  drawTitle() {
+    this.engine.ctx.drawText(
+      `Books that I read`,
+      "black",
+      this.engine.ctx.width / 2,
+      45,
+      20
     );
   }
 
