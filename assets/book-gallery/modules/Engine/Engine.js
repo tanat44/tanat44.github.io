@@ -3,6 +3,7 @@ import { CtxExtension } from "./CtxExtension.js";
 export class Engine {
   ctx;
   element;
+  lastTime;
 
   // callback
   animationCallback;
@@ -22,7 +23,13 @@ export class Engine {
   draw() {
     this.ctx.start();
 
-    if (this.animationCallback) this.animationCallback();
+    let deltaTime = 0;
+    if (this.lastTime) {
+      deltaTime = (window.performance.now() - this.lastTime) / 1000;
+    }
+    this.lastTime = window.performance.now();
+
+    if (this.animationCallback) this.animationCallback(deltaTime);
 
     this.ctx.end();
     window.requestAnimationFrame(() => this.draw());
