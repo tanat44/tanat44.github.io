@@ -1,0 +1,95 @@
+{
+  "artworks": [
+    {
+      "title": "felix",
+      "imagePath": "digital/felix.PNG",
+      "year": 2022,
+      "location": "Schiermonnikoog, The Netherlands",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "airplane",
+      "imagePath": "digital/airplane.PNG",
+      "year": 2023,
+      "location": "Schipol Airport, The Netherlands",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "jigokudani",
+      "imagePath": "digital/jigokudani.PNG",
+      "year": 2024,
+      "location": "Jogokudani, Nagano, Japan",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "kringloop table",
+      "imagePath": "digital/kringloop-table.PNG",
+      "year": 2022,
+      "location": "Het Goed Best, The Netherlands",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "living room",
+      "imagePath": "digital/living-room.PNG",
+      "year": 2022,
+      "location": "Home, Eindhoven, The Netherlands",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "many japanese bowls",
+      "imagePath": "digital/many-japanese-bowls.PNG",
+      "year": 2023,
+      "location": "Ryoukan in Gunma, Japan",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "nagano in the dark",
+      "imagePath": "digital/nagano-dark.PNG",
+      "year": 2023,
+      "location": "Ryoukan in Nagano, Japan",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "procreate practice pretzel",
+      "imagePath": "digital/procreate-practice.PNG",
+      "year": 2022,
+      "location": "Home, Eindhoven, The Netherlands",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "road to oktoberfest",
+      "imagePath": "digital/road-to-oktoberfest.PNG",
+      "year": 2023,
+      "location": "Autobahn, Germany",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "schiermonnikoog 1759",
+      "imagePath": "digital/schirmonnikoog-1759.PNG",
+      "year": 2022,
+      "location": "Schiermonnikoog, The Netherlands",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "shinagawa rush",
+      "imagePath": "digital/shinagawa-rush-s.jpg",
+      "year": 2023,
+      "location": "Tae's apartment in Shinagawa, Tokyo, Japan",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "waiting at sushiro",
+      "imagePath": "digital/sushiro.PNG",
+      "year": 2023,
+      "location": "Somewhere in Japan",
+      "method": "Procreate on iPad"
+    },
+    {
+      "title": "vacation house",
+      "imagePath": "digital/vacation-house.PNG",
+      "year": 2022,
+      "location": "Schiermonnikoog, The Netherlands",
+      "method": "Procreate on iPad"
+    }
+  ]
+}

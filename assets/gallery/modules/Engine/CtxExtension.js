@@ -70,10 +70,10 @@ export class CtxExtension {
     this.resetTransform();
   }
 
-  drawText(text, color, x, y, size = 14) {
+  drawText(text, color, x, y, size = 14, align = "center") {
     this.ctx.fillStyle = color;
     this.ctx.font = `${size}px Courier`;
-    this.ctx.textAlign = "center";
+    this.ctx.textAlign = align;
 
     const lines = text.split("\n");
     lines.forEach((line, index) => {
