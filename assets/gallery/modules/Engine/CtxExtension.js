@@ -70,6 +70,13 @@ export class CtxExtension {
     this.resetTransform();
   }
 
+  drawRect(x, y, w, h, color, opacity = 1.0) {
+    this.ctx.fillStyle = color;
+    this.ctx.globalAlpha = opacity;
+    this.ctx.fillRect(x, y, w, h);
+    this.ctx.globalAlpha = 1.0;
+  }
+
   drawText(text, color, x, y, size = 14, align = "center") {
     this.ctx.fillStyle = color;
     this.ctx.font = `${size}px Courier`;

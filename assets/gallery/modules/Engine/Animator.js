@@ -2,23 +2,31 @@ export class Animator {
   target; // target function
   fromValue;
   toValue;
-  duration; // in seconds
+  fromTime; // in seconds
+  toTime; // in seconds
   time;
 
-  constructor(fromValue, toValue, duration, target) {
+  constructor(fromValue, toValue, fromTime, toTime, target) {
     this.fromValue = fromValue;
     this.toValue = toValue;
-    this.duration = duration;
+    this.fromTime = fromTime;
+    this.toTime = toTime;
     this.target = target;
     this.time = 0;
   }
 
   animate(deltaTime) {
-    if (this.ended) return;
-
     this.time += deltaTime;
+    if (this.time < this.fromTime || this.time > this.toTime) return;
+
     const range = this.toValue - this.fromValue;
-    const value = this.fromValue + (range / this.duration) * this.time;
+    let value =
+      this.fromValue +
+      (range / (this.toTime - this.fromTime)) * (this.time - this.fromTime);
+    if (this.fromValue > this.toValue && value < this.toValue)
+      value = this.toValue;
+    else if (this.fromValue < this.toValue && value > this.toValue)
+      value = this.toValue;
     this.target(value);
   }
 

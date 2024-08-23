@@ -1,15 +1,15 @@
+import { Animator } from "../Engine/Animator.js";
 import { Artwork } from "./Artwork.js";
 
-const SHOW_TIME = 5; // second
+const SHOW_TIME = 6; // second
 
 export class ArtGallery {
   items;
   engine;
   currentItemIndex;
   time;
-
-  // draw parameters
-  stepSize;
+  fadeInAnimator;
+  fadeOutAnimator;
 
   constructor(engine) {
     this.items = [];
@@ -18,6 +18,7 @@ export class ArtGallery {
     this.engine.mouseClickCallback = (e) => this.mouseClick(e);
     this.currentItemIndex = 0;
     this.time = 0;
+    this.updateIndex(0);
   }
 
   animate(deltaTime) {
@@ -26,12 +27,14 @@ export class ArtGallery {
     if (this.time < SHOW_TIME) {
       this.drawSelectedItem();
       this.drawSelectedItemText();
+      this.fadeInAnimator.animate(deltaTime);
+      this.fadeOutAnimator.animate(deltaTime);
     } else {
       this.time = 0;
       if (this.currentItemIndex === this.items.length - 1) {
-        this.currentItemIndex = 0;
+        this.updateIndex(0);
       } else {
-        this.currentItemIndex++;
+        this.updateIndex(this.currentItemIndex + 1);
       }
     }
   }
@@ -83,14 +86,36 @@ export class ArtGallery {
   mouseClick(e) {
     const next = e.x > this.engine.width / 2;
     if (next) {
-      if (this.currentItemIndex === this.items.length - 1)
-        this.currentItemIndex = 0;
-      else this.currentItemIndex++;
+      if (this.currentItemIndex === this.items.length - 1) this.updateIndex(0);
+      else this.updateIndex(this.currentItemIndex + 1);
     } else {
-      if (this.currentItemIndex === 0)
-        this.currentItemIndex = this.items.length - 1;
-      else this.currentItemIndex--;
+      if (this.currentItemIndex === 0) this.updateIndex(this.items.length - 1);
+      else this.updateIndex(this.currentItemIndex - 1);
     }
     this.time = 0;
+  }
+
+  updateIndex(newIndex) {
+    this.currentItemIndex = newIndex;
+    this.fadeInAnimator = new Animator(1, 0, 0, 1, (value) => {
+      this.engine.ctx.drawRect(
+        0,
+        0,
+        this.engine.width,
+        this.engine.height,
+        "black",
+        value
+      );
+    });
+    this.fadeOutAnimator = new Animator(0, 1, 5, 6, (value) => {
+      this.engine.ctx.drawRect(
+        0,
+        0,
+        this.engine.width,
+        this.engine.height,
+        "black",
+        value
+      );
+    });
   }
 }
