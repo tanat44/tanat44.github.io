@@ -21,6 +21,7 @@ Resume [2024](/assets/resume2024_5.pdf) [2021](/assets/TanutPresentation_210803.
 
 <canvas id="gallery" width="800" height="300" onclick="location.href = '/post/booksiread'"></canvas>
 <script type="module" src="/assets/gallery/book-gallery.js"></script>
+[Sourdough Calculator](/assets/sourdough-calculator/index.html)
 
 ---
 
