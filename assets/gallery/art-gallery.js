@@ -6,7 +6,7 @@ window.onload = (e) => {
 };
 
 const init = async () => {
-  const engine = new Engine("gallery", true);
+  const engine = new Engine("art-gallery", true);
   const gallery = new ArtGallery(engine);
   await gallery.loadAsset("/assets/gallery/assets/art-gallery/artworks.json");
 };
