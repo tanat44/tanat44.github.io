@@ -14,7 +14,6 @@ export class Engine {
   constructor(elementId, fullwindow = false) {
     this.fullwindow = fullwindow;
     this.element = document.getElementById(elementId);
-
     this.initEvent();
     this.initCanvas();
   }
@@ -55,7 +54,7 @@ export class Engine {
 
   initCanvas() {
     this.windowResize();
-    const _ctx = gallery.getContext("2d");
+    const _ctx = this.element.getContext("2d");
     this.ctx = new CtxExtension(_ctx);
     window.requestAnimationFrame(() => this.draw());
   }
