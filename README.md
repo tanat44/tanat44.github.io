@@ -82,6 +82,5 @@ Resume [2024](/assets/resume2024_5.pdf) [2021](/assets/TanutPresentation_210803.
 
 ---
 
-## Paintings
-
-{% include_relative /page/gallery.html %}
+## Art Gallery
+<script type="module" src="/assets/gallery/art-gallery.js"></script>

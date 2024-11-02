@@ -92,11 +92,67 @@
       "method": "Procreate on iPad"
     },
     {
+      "title": "susuki swift",
+      "imagePath": "digital/suzuki-swift.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Wacom + Krita"
+    },
+    {
       "title": "3dprint forklift",
-      "imagePath": "digital/3dprint-forklift.PNG",
+      "imagePath": "3dprint/forklift.PNG",
       "year": 2024,
       "location": "Home, The Netherlands",
       "method": "Fusion 360"
+    },
+    {
+      "title": "ferrari 275gtb",
+      "imagePath": "traditional/ferrari-275gtb.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Watercolor"
+    },
+    {
+      "title": "honda civic fc",
+      "imagePath": "traditional/honda-civic-fc.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Watercolor"
+    },
+    {
+      "title": "porsche 911",
+      "imagePath": "traditional/porsche-911.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Watercolor"
+    },
+    {
+      "title": "saint louis at dusk",
+      "imagePath": "traditional/saint-louis-at-dusk.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Poster color"
+    },
+    {
+      "title": "saint louis mansion",
+      "imagePath": "traditional/saint-louis-mansion.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Watercolor"
+    },
+    {
+      "title": "toyota gr86",
+      "imagePath": "traditional/toyota-gr86.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Watercolor"
+    },
+    {
+      "title": "volkswagen golf gti",
+      "imagePath": "traditional/volkswagen-golf-gti.jpg",
+      "year": 2021,
+      "location": "Home, Bangkok",
+      "method": "Watercolor"
     }
   ]
 }
