@@ -90,6 +90,13 @@
       "year": 2022,
       "location": "Schiermonnikoog, The Netherlands",
       "method": "Procreate on iPad"
+    },
+    {
+      "title": "3dprint forklift",
+      "imagePath": "digital/3dprint-forklift.PNG",
+      "year": 2024,
+      "location": "Home, The Netherlands",
+      "method": "Fusion 360"
     }
   ]
 }

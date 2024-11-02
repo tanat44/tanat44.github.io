@@ -43,7 +43,7 @@ const calculate = () => {
   setValue("resultWater", resultWater.toFixed(0));
 
   const resultSalt = breadWeight * salt;
-  setValue("resultSalt", resultSalt.toFixed(0));
+  setValue("resultSalt", resultSalt.toFixed(1));
 
   const resultFlour = breadWeight - totalWater - (starterWeight - starterWater);
   setValue("resultFlour", resultFlour.toFixed(0));
