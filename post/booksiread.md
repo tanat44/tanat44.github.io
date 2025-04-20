@@ -4,11 +4,52 @@ I wish to keep this list alive by updating it every time I finish one book. The 
 
 ---
 
-### **Four thousand weeks, Oliver Burkeman**
+### **Exercises in Programming Style, Cristina Videira Lopes**
+_Programming, Read in April 2025_
 
+While I was reviewing the code and being so frustrated with the new code someone was trying to add to the legacy codebase, I thought why people wouldn't just take a break and start to think if this is how it should be done or if there's a better way of doing it. Primoz sitting next to me and probably hearing this recurrent complains everyday for couple of days. He gave me a link to this book. 
+
+Unlike any other programming books that tell you this is the best way to solve this constrain / problem. The world is heterogeneous we should start embracing different races / culture / a sour cup of coffee?. The same school of thought can be applied to the programming subject very well. In our company lately, we speak so much about that this is best practices and there's only one way of doing it with microservices, dependencies injection, interface, docker, and etc. I didn't think that was the way but I have no good reason to say why. This book learn me the universe of programmings styles which are definitely much much more biggest than I thought it was. The book explains the very reasons why each styles are developed from the original purposes / constraint that may be already forgotten. Just simply not seeing the style often doesn't mean that it's a bad way of doing it. 
+
+This book is highly recommend for any mid career programmer (which I consider myself one of those) where you came across few projects and about to start to develop your personal bias toward one way-of-working, one technology. We shouldn't frame ourselves to any particular styles but instead enjoy the different beautiful colors and tones.
+
+___
+
+### **The Accidental Superpower, Peter Zeihan**
+_History, Read in April 2025_
+
+In today's company where we work remotely, we rarely have opportunities to do casual talk with colleagues. Meetings are always scheduled for topic. The good thing about working for T-Hive is that there're always opportunities to meet physically and regularly. During one of the PI session (physical meeting), Gasper started talking about books that he's read and he recommended me this one that he finished lately. From his description, it was likely from the category that I would be interested in but it was quite thick and hard to carry around.
+
+I am always curious how USA has become the most powerful country that dictates the course of today history. I am always curious why it wasn't my home country which way we are inferior and can we change the course of future history. Everyone I talked to has their own theory about it. This book likewise offer another theory that roots on geography which was unheard of from me. It was not so easy to follow because there are vocabularies that I am totally familiar with (politics..) and the whole map. I need to have google maps on my hand to locate the countries, rivers, regions that are mentioned in the book. It's always very interesting the learn about the history, relationships, and countries dynamics just by looking at where the countries it situated alone.
+
+As much as the theory and predictions given from the book sounded but I wouldn't call it a grand theory -- single theory that is a root to every derivative. And I would still be optimist and believe that society will continues democratize and decentralize in the age of information & innovation where geography plays lesser roles. It may take time. Any dominant positions are temporal. Humanity will find ways to make the world a better place for every individual.
+
+---
+
+### **The Hitchhiker's Guide to the Galaxy, Douglas Adams**
+_Fiction, Read in December 2024_
+
+It's hard to find a fiction book that I like to work on. Once mentioned by a friend (Dr.Fai), the title of this book draw me in because of my slight interests in space travels. It has been advanced so much and it has never been closer to the reality as it's today. However, this fiction written in 80's is still hold valid and exciting even in the context of the year that we are in. 
+
+While reading, I got to learn about 'Galaxy songs' from Monty Python. Listening it along goes very well with the theme of this book. Then I started to listen more and more songs from Monty Python and I like them all.
+
+---
+
+### **Masters of Doom, Davic Kushner**
+_History, Read in August 2024_
+
+Summer this year, I met Stephan in Paris. It's been almost 10 years since the last time we met. I am happy to learn that he has been in 3d printing hobby lately which would have been unthinkable 12 years ago when we studied together in Tokyo. During the dinner, he mentioned this book which immediately trigger my interests so I ordered the book to be delivered to my apartment in The Netherland while the dinner was going on.
+
+Since I joined this company, I have been working mostly on 3D visualization client. Hearing about how DOOM was the very first games that crack 3D rendering could not intrigue me more. On top of that, **IDDQD** is probably the only few cheat code (aside from Family 101 Contra -- up/up/down/down/...) that I can never forget and it's for DOOM! It's very fun to read about the history that is probably as important to the game industry as Windows. I'd really like to recommend this book for anyone who works in Computer Graphic of my generation.
+
+One night I played DOOM again. The graphic was really charming and I think it is much more fun to play now than when I was 12 years old (or something like that).
+
+---
+
+### **Four thousand weeks, Oliver Burkeman**
 _Personal development?, Read in May 2024_
 
-Reading the title, I would expect the book to tell you a trick to do much more (quantity) in your limited life time (lifthack-ish) but I was totally wrong. I know time is invariant to how we spend but why? and what's the quality of time? Thanks to the wife who recommend me this book. 
+Reading the title, I would expect the book to tell you a trick to do much more (quantity) in your limited life time (lifehack-ish) but I was totally wrong. I know time is invariant to how we spend but why? and what's the quality of time? Thanks to the wife who recommend me this book. 
 
 Based on the definition giving by the book, I would call myself a productivity geek -- I care about how time is being spent -- but at the same time I own the care-free character --I only care that I care (growing up I notice I have less-and-less of such quality). In fact, these two universe merges and well described by the author.
 
@@ -17,7 +58,6 @@ It took me very long to read this book (1 year possibly) because there's so much
 ---
 
 ### **A short history of nearly everything, Bill Bryson**
-
 _Science, Read in April 2024_
 
 I like Science, especially Physics which I think it's the ultimate subject among other since subjects. Today's technology is impossible without other sciences - biology, physiology, geology, and many more. I was wrong at overvaluing the Physics over other matters. This book give me a tour to the comprehensive history of sciences. How a discover on one matter subject, helps development in other fields.
@@ -27,7 +67,6 @@ I know we are small compared to solar system. I know we are big compared to atom
 ---
 
 ### **The Phoenix Project**
-
 _Fiction, Read in Dec 2023_
 
 This book is probably by far my quickest fiction book to finish. I believe I had only couple of reading sessions on this book (< 10) before I finished it. It's very nerdy fiction about DevOps - Software Developer / System deployment. It feels so real as if something similar is already happening in the current company I am working for. 2 years ago when I started working for this company, I thought devops was something extra / unnecessary but more and more I learn about the principle, more complicated the products get, devops is undeniably the way forward. Now that I practice it day-in-day-out, I feel that devops is just part of the development process - like how ide, git become part of the work flow. This book visualizes to devops can help you in a very easy to read and understand fictional story.
@@ -35,7 +74,6 @@ This book is probably by far my quickest fiction book to finish. I believe I had
 ---
 
 ### **The Midnight Library, Matt Haig**
-
 _Fiction, Read in Feb 2023_
 
 (I like it really. But too bad I didn't write my thought here when the memory was fresh.)
@@ -43,7 +81,6 @@ _Fiction, Read in Feb 2023_
 ———
 
 ### **The Bomber Mafia**
-
 _History, Read in July 2022_
 
 I got this book from Philadelphia airport while I was waiting for the next flight to Louisville. As a side story, I still feel that I am such a lucky one working for this job - challenging work, and giving me chances to visit the world. I finished the previous book during the first 18h hour flight (Bangkok > Doha > Philadelphia), so I went into the book store looking for a new one.
@@ -53,7 +90,6 @@ This book caught my eyes as one of the best seller. It didn’t take me too long
 ——-
 
 ### **Anxios People, Fredrik Backman**
-
 _Fiction, Read in July 2022_
 
 Whoa!! I almost forgot to write about this book. I am not such a fiction person but my wife really recommend me this one. It’s the first time I feel that I can’t close the book and keep reading till the end. This is the best book I have had for the first half of 2022 so far.
@@ -63,7 +99,6 @@ It’s the story of many random things happening in Sweden. The author put toget
 ---
 
 ### **The Unknown Kimi Raikkonen**
-
 _Racing, Read in June 2022_
 
 I picked up this book because it's cheap and at that time he was about to quit F1. On the TV, Kimi has a very distict personalities compared to other driver -- more towards on bullshit talk. This book is a bit different from other racing biography books that I have read. All of the other ones, so far, are written by the F1 reporters or the person himself. Those books offer more inside view of prople in this industry whilst this book is written by a fiction writer. From a non-F1 fan perspective, story is described in a normal fashion. It's more of what this profession is like.
@@ -73,7 +108,6 @@ When I was studying Master, I had one Finish friend. I recently transitted in Fi
 ---
 
 ### **Thinking, Fast and Slow, Daniel Kahneman**
-
 _Psychology, Read in May 2022_
 
 How could you skip a book of the Noble prize? Of course, whatever from Nobel prize has such an illusion but the only way to judjudgeege by yourself whether it's an illusion or something meaningful is by experiencing it. This is one of the book that takes me the longest to finish, so much so that I would like to add ... slow (reading) ... to the title. I carried it to many places / countries I have been visiting in the past year - USA / Sweden / Netherland / many more provinces in Thailand. It's a very good sleeping pill while I am on the airplane -- just because the content is so so heavy. I am glad that I finished it now and it worths reading.
@@ -99,7 +133,6 @@ It's funny to see a reflection of myself as a red person - describing in the boo
 ---
 
 ### **Layered Money, Nik Bhatia**
-
 _History, Read in March 2022_
 
 Bitcoin, Crypto, to be honest I felt skeptical since it's gained so much attention over the past few years, as for trading/buy&sell/making-profit. Until, one of the colleage who is so much into it talks about the story of money when we first met around end of last year. I started to realize that I was way too bias than I actually know about it. I started to learn about Etherium mining. I mined and cashed out the first 10 dollars. Then, it's all started to get interesting. It's such a pity being programmer but actually knowing nothing about this upcoming tech.

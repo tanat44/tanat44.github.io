@@ -1,7 +1,25 @@
 {
   "books": [
     {
-      "title": "Masters of DOOM",
+      "title": "Exercises in Programming Style, Cristina Videira Lopes",
+      "imagePath": "excercises-in-programming-style.jpg",
+      "readMonth": 4,
+      "readYear": 2025
+    },
+    {
+      "title": "The Accidental Superpower, Peter Zeihan",
+      "imagePath": "the-accidental-super-power.jpg",
+      "readMonth": 12,
+      "readYear": 2024
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy, Douglas Adams",
+      "imagePath": "the-hitchhikers-guide-to-the-galaxy.jpg",
+      "readMonth": 12,
+      "readYear": 2024
+    },
+    {
+      "title": "Masters of DOOM, David Kushner",
       "imagePath": "masters-of-doom.jpg",
       "readMonth": 8,
       "readYear": 2024
