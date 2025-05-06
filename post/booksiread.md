@@ -4,6 +4,22 @@ I wish to keep this list alive by updating it every time I finish one book. The 
 
 ---
 
+### **The Unicorn Project, Gene Kim**
+_Fiction, Read in May 2025_
+
+Right after I finished the first book of this series *The Phoenix Project* and I heard that there's another one following up, I bought this book without any second thought. However, it took me over a year to actually pick it up and resume my reading habit. I'd actually carried this book once in 2025 when I came to Japan hoping that 3 months in Japan would be enough to finish. I ended up never had opened it. This time around in 2025, I came over to Japan for 1 year assignment. I made sure to carry few books and hoping to finish some would be awesome. It was a golden week holiday in Japan when we travels around kansai region. I made sure to carry The Unicorn Project in my backpack. I am surprised that I could pretty much reading it non-stop whenever I have a short break - waiting for food, queuing for attractions at USJ, quick break at Osaka Expo, in the car, before bed, on the beach waiting for dinner, and etc.
+
+The main things that really hook me into reading non-stop was how realistic it reflects my current life at work. Since January I am in constant motions of integrating systems for Haneda airport project. I have been trying the change the way we work, combining dev & ops, automate the build & deploy, doing things end-to-end, motivating continuous learning among teams. These are nothing new and the rebellion gang in the book surprised me with similar approach. After months of trying, I came to the conclusion that I am not good enough to make the change happen. Reality doesn't converge to a happy ending like in the fiction. I will need to recollect myself and once again try to overthrow the existing orders.
+
+The key takeaway for me is that we shouldn't get carried away by the status quo / corporate structure and it's important to keep repeating the vision for why we do what we do. Additionally, five ideals are an awesome corner stones how we should do any works.
+1. Locality and Simplicity
+1. Focus, Flow and Joy
+1. Improvement of Daily Work
+1. Psychological Safety
+1. Customer Focus
+
+---
+
 ### **Exercises in Programming Style, Cristina Videira Lopes**
 _Programming, Read in April 2025_
 
@@ -66,7 +82,7 @@ I know we are small compared to solar system. I know we are big compared to atom
 
 ---
 
-### **The Phoenix Project**
+### **The Phoenix Project, Gene Kim**
 _Fiction, Read in Dec 2023_
 
 This book is probably by far my quickest fiction book to finish. I believe I had only couple of reading sessions on this book (< 10) before I finished it. It's very nerdy fiction about DevOps - Software Developer / System deployment. It feels so real as if something similar is already happening in the current company I am working for. 2 years ago when I started working for this company, I thought devops was something extra / unnecessary but more and more I learn about the principle, more complicated the products get, devops is undeniably the way forward. Now that I practice it day-in-day-out, I feel that devops is just part of the development process - like how ide, git become part of the work flow. This book visualizes to devops can help you in a very easy to read and understand fictional story.

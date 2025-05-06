@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "The Unicorn Project, Gene Kim",
+      "imagePath": "the-unicorn-project.jpg",
+      "readMonth": 5,
+      "readYear": 2025
+    },
+    {
       "title": "Exercises in Programming Style, Cristina Videira Lopes",
       "imagePath": "excercises-in-programming-style.jpg",
       "readMonth": 4,
@@ -37,7 +43,7 @@
       "readYear": 2024
     },
     {
-      "title": "The Phoenix Project",
+      "title": "The Phoenix Project, Gene Kim",
       "imagePath": "the-phoenix-project.jpg",
       "readMonth": 12,
       "readYear": 2023
