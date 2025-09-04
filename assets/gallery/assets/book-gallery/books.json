@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "1984",
+      "imagePath": "1984.jpg",
+      "readMonth": 7,
+      "readYear": 2025
+    },
+    {
       "title": "The Unicorn Project, Gene Kim",
       "imagePath": "the-unicorn-project.jpg",
       "readMonth": 5,
@@ -15,8 +21,8 @@
     {
       "title": "The Accidental Superpower, Peter Zeihan",
       "imagePath": "the-accidental-super-power.jpg",
-      "readMonth": 12,
-      "readYear": 2024
+      "readMonth": 4,
+      "readYear": 2025
     },
     {
       "title": "The Hitchhiker's Guide to the Galaxy, Douglas Adams",

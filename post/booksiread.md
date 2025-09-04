@@ -1,6 +1,21 @@
 # All books that I read
 
-I wish to keep this list alive by updating it every time I finish one book. The most recent reads are on top, ordered by finishing dates.
+I try to keep this list alive by updating it every time I complete one book. The most recent reads are on the top, ordered by completing dates.
+
+---
+
+### **1984, George Orwell**
+_Fiction, Read in July 2025_
+
+Another classic author George Orwell that I have heard times and times. I have no clue why I went for 1984 but not the other titles. At the start, it went very slow because I am not very familiar with the vocabularies and I can't making any sense what was terms like Ingsoc, Newspeak, and etc. May be it's the fun of reading fiction to keep on going without actually understanding every words (as oppose of most of science studies). But at one point, the tone of story starts to change (with romance) and I keep reading it non-stop towards to end.
+
+Learning 1: It would have been a big mistake if I hadn't keep reading until the end because at some point in my life I thought of similar concepts that appear in the story like 1. the uses of much simplified language (much reduced vocabularies / grammars as suggested in 'Newspeak') 2. the one truth of political side (without opposition). These thoughts stuck in my mind but I have never developed or tested the theory further. The author has definitely succeed in literally proving what if ... in forms of fiction. 
+
+Learning 2: I used to value historical fact and fiction differently just because of the fact that they actually happens or not. However, a good fiction can portray as realistic pictures / scenes. From the reader perception, I could hardly distinguish good fiction and the history since myself receive the stories through the same media - 'words'. Fiction allows us to demonstrate / test the concepts that otherwise humanity would have to wait for thousand years to happen. At that point, when it becomes the history, it may be too late to change or noone would be left to realize that the history has done to us. 
+
+Learning 3: Ending in retrospect has been seeds throughout the story but as a human reader it tricked my mind to hope for different ending. As it turned out, it was fun to be wrong. 
+
+On one hand I regard this book as textbook for social study. I wish I read it long ago (maybe during high school) but in reality I think I wouldn't appreciate it this much if I was told to read it or if I were much inexperience.
 
 ---
 
