@@ -1,4 +1,5 @@
 const monthNames = [
+  "Unknown", // actual month starts from 1, so 0 is unknown
   "January",
   "February",
   "March",
