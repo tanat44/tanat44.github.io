@@ -11,18 +11,17 @@ var Tanut = {
 
 ---
 
-## About Me
+**Links** 
 
-If you have interesting projects / works, let's have a chat at t#a#n#a#t#4#4#@#g#m#a#i#l#.#c#o#m (Delete all # to get my email)
+[Resume](/assets/resume-tanut-2025-10.pdf) |  [Youtube](https://www.youtube.com/tanat44) | [Old projects](/assets/TanutPresentation_210803.pdf) 
 
-[Resume](/assets/resume-tanut-2025-10.pdf) [2021](/assets/TanutPresentation_210803.pdf)
+[Sourdough Calculator](/assets/sourdough-calculator/index.html)
 
 [Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/assets/master_thesis.pdf)
 
 <canvas id="book-gallery" width="800" height="300" onclick="location.href = '/post/booksiread'"></canvas>
 <script type="module" src="/assets/gallery/book-gallery.js"></script>
 
-[Sourdough Calculator](/assets/sourdough-calculator/index.html)
 
 ---
 
