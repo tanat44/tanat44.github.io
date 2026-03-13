@@ -4,6 +4,26 @@ I try to keep this list alive by updating it every time I complete one book. The
 
 ---
 
+### **Just for Fun, Linus Torvalds
+_Biography, Read in Dec 2025_
+
+Linux flash back
+In August when works at the company wasn't so joyful as much as it used to be -- partly because of the misaligned goal, unfulfilled promises, stringent security protocol. I was running Windows 11 but for the most of my days, I spent on WSL (linux terminal) writing bash / debugging install script, sometimes pipeline works. On top of the difficult work, company enforced all time VPN that slows & block websites -- blocking my productive work hours. I started to look for alternatives. Linux becomes the obvious choice. Lately, Debian 13 has recently been released and rated highly. I gave it a try. It was a solution for me to be productive as well as really trying out the water. It forces me to work more with bash / sh and ultimately making me understand the computer more. I could run multiple instances of company system on Kubernetes of which one was already slowing down Windows like crazy.
+
+In November when the boredom was at its peak and Linus was on the LTT show. This book was mentioned in that show and without hesitation I started to read it. This is very inspiring & entertaining and I really wish I read this book much much earlier (just like any other books on this list ...). I wish it was part of the computer engineering course when we studied Operating System. At the end, it's never too late too learn or probably relearn in this case. Reading this book al
+
+While reading the book, my memories on Linux flashes back. Somehow I've never pick up Linux seriously until now.
+- When I was around 8 years old. My mom sent me to private computer class where I met my first computer teacher Ajarn Sujin. Little I remembered but I learn a bit of DOS, Windows 3.11, playing games / MS Paint. Dismantling the computer and put them back. We went all the way to disassemble the harddisk and found how beautiful and perfect the disk is as a mirror. I vaguely remember that at some point we installed Linux but there was no game, no UI. What was the fun in that?
+- At about 11 years old, I remembered I went to LinuxTLE training and come back with a Linux CD which I might want to try but how to do that since the computers (Pentium 1 era) were so expensive and we only had one at home. Plus, we always used cracked free Windows, so a free OS doesn't appeal enough. Another chance of running linux slipped away.
+- At about 17 years old, at the dawn of home high speed internet ADSL 256kbps. Wifi router 802.11b/g. We started to have internet connection at home but way before smartphone exists, we offered free internet at dental clinic for customers to kill their time while waiting. Linux Mint was the obvious choice for those 2 computers because it was free and sufficient for just internet browsing.
+- In the university, I learnt operating system subject. I believe the reference text book is the one mentioned in this book. I learnt how chmod 777, sudo but I didn't get what is the point of using Linux.
+- 5 years ago when I decided to develop in-house system for our dental clinic. The system is fully web-based. Again I stumble upon Ubuntu Linux again for cost reasons since I don't wanna buy 20 Windows licenses. Linux add extra benefits here since no user knows how to mess up the system (installing games / virus), unlike the alternative -- Windows. Web-server is definitely running on Linux as well. Here I started to learn how to live with Linux, how folders work, randomly get things done with sudo.
+
+Now that more games started to run on Linux. Luckily racing games that I play do not run. So another excuse of not using Linux privately. But for work, I really have no complain for the past 6 months of using it. More important note I got from reading book was related to opensource. I started to understand that opensource is more than just a free software. It feel almost like left wing movement in innovation terms.
+
+
+---
+
 ### **1984, George Orwell**
 _Fiction, Read in July 2025_
 

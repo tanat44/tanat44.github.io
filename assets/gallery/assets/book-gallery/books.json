@@ -1,11 +1,17 @@
 {
   "books": [
     {
+      "title": "Just for Fun, Linus Torvalds",
+      "imagePath": "just-for-fun.jpg",
+      "readMonth": 12,
+      "readYear": 2025
+    },
+    {
       "title": "1984",
       "imagePath": "1984.jpg",
       "readMonth": 7,
       "readYear": 2025
-    },
+    },    
     {
       "title": "The Unicorn Project, Gene Kim",
       "imagePath": "the-unicorn-project.jpg",
