@@ -5,7 +5,7 @@ I try to keep this list alive by updating it every time I complete one book. The
 { %include_relative book-2026.md %}
 
 
-### **Just for Fun, Linus Torvalds
+### Just for Fun, Linus Torvalds
 _Biography, Read in Dec 2025_
 
 Linux flash back
@@ -25,7 +25,7 @@ Now that more games started to run on Linux. Luckily racing games that I play do
 
 ---
 
-### **1984, George Orwell**
+### 1984, George Orwell
 _Fiction, Read in July 2025_
 
 Another classic author George Orwell that I have heard times and times. I have no clue why I went for 1984 but not the other titles. At the start, it went very slow because I am not very familiar with the vocabularies and I can't making any sense what was terms like Ingsoc, Newspeak, and etc. May be it's the fun of reading fiction to keep on going without actually understanding every words (as oppose of most of science studies). But at one point, the tone of story starts to change (with romance) and I keep reading it non-stop towards to end.
@@ -40,7 +40,7 @@ On one hand I regard this book as textbook for social study. I wish I read it lo
 
 ---
 
-### **The Unicorn Project, Gene Kim**
+### The Unicorn Project, Gene Kim
 _Fiction, Read in May 2025_
 
 Right after I finished the first book of this series *The Phoenix Project* and I heard that there's another one following up, I bought this book without any second thought. However, it took me over a year to actually pick it up and resume my reading habit. I'd actually carried this book once in 2025 when I came to Japan hoping that 3 months in Japan would be enough to finish. I ended up never had opened it. This time around in 2025, I came over to Japan for 1 year assignment. I made sure to carry few books and hoping to finish some would be awesome. It was a golden week holiday in Japan when we travels around kansai region. I made sure to carry The Unicorn Project in my backpack. I am surprised that I could pretty much reading it non-stop whenever I have a short break - waiting for food, queuing for attractions at USJ, quick break at Osaka Expo, in the car, before bed, on the beach waiting for dinner, and etc.
@@ -56,7 +56,7 @@ The key takeaway for me is that we shouldn't get carried away by the status quo 
 
 ---
 
-### **Exercises in Programming Style, Cristina Videira Lopes**
+### Exercises in Programming Style, Cristina Videira Lopes
 _Programming, Read in April 2025_
 
 While I was reviewing the code and being so frustrated with the new code someone was trying to add to the legacy codebase, I thought why people wouldn't just take a break and start to think if this is how it should be done or if there's a better way of doing it. Primoz sitting next to me and probably hearing this recurrent complains everyday for couple of days. He gave me a link to this book. 
@@ -67,7 +67,7 @@ This book is highly recommend for any mid career programmer (which I consider my
 
 ___
 
-### **The Accidental Superpower, Peter Zeihan**
+### The Accidental Superpower, Peter Zeihan
 _History, Read in April 2025_
 
 In today's company where we work remotely, we rarely have opportunities to do casual talk with colleagues. Meetings are always scheduled for topic. The good thing about working for T-Hive is that there're always opportunities to meet physically and regularly. During one of the PI session (physical meeting), Gasper started talking about books that he's read and he recommended me this one that he finished lately. From his description, it was likely from the category that I would be interested in but it was quite thick and hard to carry around.
