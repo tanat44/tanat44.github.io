@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI, Yuval Noah Harari",
+      "imagePath": "nexus.jpg",
+      "readMonth": 3,
+      "readYear": 2026
+    },
+    {
       "title": "Just for Fun, Linus Torvalds",
       "imagePath": "just-for-fun.jpg",
       "readMonth": 12,

@@ -2,7 +2,8 @@
 
 I try to keep this list alive by updating it every time I complete one book. The most recent reads are on the top, ordered by completing dates.
 
----
+{ %include_relative book-2026.md %}
+
 
 ### **Just for Fun, Linus Torvalds
 _Biography, Read in Dec 2025_
