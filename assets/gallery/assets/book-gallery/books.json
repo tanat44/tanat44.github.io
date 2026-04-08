@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "title": "SP-287 What made apollo a success?, NASA",
+      "imagePath": "what-made-apollo-a-success.jpg",
+      "readMonth": 4,
+      "readYear": 2026
+    },
+    {
       "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI, Yuval Noah Harari",
       "imagePath": "nexus.jpg",
       "readMonth": 3,
@@ -17,7 +23,7 @@
       "imagePath": "1984.jpg",
       "readMonth": 7,
       "readYear": 2025
-    },    
+    },
     {
       "title": "The Unicorn Project, Gene Kim",
       "imagePath": "the-unicorn-project.jpg",

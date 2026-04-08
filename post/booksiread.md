@@ -14,10 +14,10 @@
 
 These are books that I haven't finished and I have no plan to work on it. I must say I lost interest on them at the moment.
 
-- _Don Quixote de La Mancha_
+#### Don Quixote de La Mancha
 
-  I have heard so many good reviews about it. I like the theme song of "Donquijote" shopping mall. In fact, it's the shopping mall that brough my interest to get to know more on what exactly does it mean.
+I have heard so many good reviews about it. I like the theme song of "Donquijote" shopping mall. In fact, it's the Japanese shopping mall Donki-Jote that brought my interest to this book but probably not so relevant. 
 
-- _Harry Potter Book 2_
+#### Harry Potter Book 2
 
-  Simply the continuation after completing the Book 1 but somehow I lost interest.
+Simply the continuation after completing the Book 1 but I stopped after a while.
