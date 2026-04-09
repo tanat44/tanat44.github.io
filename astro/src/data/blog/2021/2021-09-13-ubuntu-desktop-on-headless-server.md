@@ -1,4 +1,12 @@
-# How to setup Ubuntu Desktop on Headless Server
+---
+pubDatetime: 2021-09-13
+title: Setup Ubuntu Desktop on Headless Server
+tags:
+  - blog
+  - programming
+description: I have an issue when trying to setup a build server for Unity Project on Ubuntu Server because Unity, although it can be build to command line interface, has to be installed through GUI (Unity Hub).
+---
+
 I have an issue when trying to setup a build server for Unity Project on Ubuntu Server because Unity, although it can be build to command line interface, has to be installed through GUI (Unity Hub). The only way I can achieve my goal is to get GUI running on the Ubuntu server, then I can remote desktop to setup Unity Hub. 
 
 *Headless server is a server machine that doesn't connect to any monitor*

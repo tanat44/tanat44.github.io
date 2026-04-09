@@ -1,5 +1,13 @@
-# Sim-Racing Pedal Attachment
-![](image/thrustmaster-pedal-after.jpg)
+---
+pubDatetime: 2019-06-20
+title: Sim-Racing Pedal Attachment
+tags:
+  - blog
+  - simracing
+description: I had an issue with the height and angle of the accelerator/break pedals because they are too low and too deep in my seating setup, so I designed an attachment (the white plastic piece) which can be bolt on to Thrustmaster T3PA pedal
+---
+
+![](@/assets/images/thrustmaster-pedal-after.jpg)
 
 I had an issue with the height and angle of the accelerator/break pedals because they are too low and too deep in my seating setup, so I designed an attachment (the white plastic piece) which can be bolt on to Thrustmaster T3PA pedal to fix this issue. See youtube video below how I modified the pedals. 
 

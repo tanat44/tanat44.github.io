@@ -1,4 +1,12 @@
-# GÖtenburg lesson
+---
+pubDatetime: 2021-11-17
+title: GÖtenburg lesson
+tags:
+  - blog
+  - travel
+description: This trip I went to GÖtenburg on a business trip for the company I newly joined during Covid 19
+---
+
 I have to admit that I am lucky that I have this job (a story for another time...). This time we have a PI (Program Increment) meeting in a GÖtenburg, Sweden. 
 
 ## Sweden
@@ -14,7 +22,7 @@ Of course, I find time for visiting IKEA. There are so many items that I have ne
 1. They sell flooring!
 
 Just outside the IKEA mall, there are arrays of trailors waiting where you can probably rent (not sure how it works). I saw a person backed his own car and attached the box to a tow bar. I am someone who drives a small car and always have a problem packing Ikea stuffs. What an innovative service!
-![](/image/gotenburg-ikea.png)
+![](@/assets/images/gotenburg-ikea.png)
 ## Hej! Swedish
 I think Swedish (People & Language) is also minimalistic. People speaks very few words in a sentence compared to other nationalities -- taking my boss and my colleage as samples of the Swedish I know. Sentences are very reservered and only meaningful keywords present.
 
