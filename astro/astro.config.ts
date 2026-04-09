@@ -1,15 +1,15 @@
-import { defineConfig, envField, fontProviders } from "astro/config";
-import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
-import remarkToc from "remark-toc";
-import remarkCollapse from "remark-collapse";
 import {
   transformerNotationDiff,
   transformerNotationHighlight,
   transformerNotationWordHighlight,
 } from "@shikijs/transformers";
-import { transformerFileName } from "./src/utils/transformers/fileName";
+import tailwindcss from "@tailwindcss/vite";
+import { defineConfig, envField, fontProviders } from "astro/config";
+import remarkCollapse from "remark-collapse";
+import remarkToc from "remark-toc";
 import { SITE } from "./src/config";
+import { transformerFileName } from "./src/utils/transformers/fileName";
 
 // https://astro.build/config
 export default defineConfig({
@@ -61,8 +61,8 @@ export default defineConfig({
     preserveScriptOrder: true,
     fonts: [
       {
-        name: "Google Sans Code",
-        cssVariable: "--font-google-sans-code",
+        name: "M PLUS Code Latin",
+        cssVariable: "--font-m-plus-code-latin",
         provider: fontProviders.google(),
         fallbacks: ["monospace"],
         weights: [300, 400, 500, 600, 700],
