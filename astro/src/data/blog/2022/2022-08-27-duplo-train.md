@@ -1,6 +1,13 @@
-# Duplo Train
+---
+pubDatetime: 2022-08-27
+title: Duplo Train
+tags:
+  - blog
+  - travel
+description: A night at Schiermonnikoog - an island on the north west of the Netherlands - bring back my memories of the Duplo Train. Engineering school learns me something...
+---
 
-![](/image/duplo-train.jpeg)
+![](@/assets/images/duplo-train.jpeg)
 
 A night at Schiermonnikoog - an island on the north west of the Netherlands.
 
@@ -17,7 +24,7 @@ The pain is real .. can barely walk.
 
 My wife’s old colleague invited us to join their vacation trip on Schiermonnikoog island. In the vacation house, there are two big boxes of Duplo Lego. The kids built a long rail road covering half of the living space. I play around with some parts. Then I recalled my memory on the Duplo.
 
-We lived in front of BigC Supermarket. I visited the toy section almost every time I went to BigC (few times a week maybe). One day this Duplo train went on sales. I did’t remember how much was it exactly but it was like they were trying the get rid of them. My mom heard about it, then she bought me almost all from the shelf. Back at home I played with them for quite sometimes but not as much as I thought I would have played. We didn’t have intersection, there were only one radius corner pieces, no bridges. I made a long railway with zigzag corners but that was about it. Plus it didn’t have the motorised bogies like what Tomy trains do.
+We lived in front of BigC Supermarket. I visited the toy section almost every time I went to BigC (few times a week maybe). One day this Duplo train went on sales. I did’t remember how much was it exactly but it was like they were trying the get rid of them. My mom heard about it, then she bought me almost all from the shelf. Back at home I played with them for quite sometimes but not as much as I thought I would have played. We didn’t have intersection, there were only one radius corner pieces, no bridges. I made a long railway with zigzag corners but that was about it. Plus it didn’t have the motorized bogies like what Tomy trains do.
 
 Tomy was probably the system I had wanted but I have never asked for it. Until recently every time we visited Central, I always stop by the toy section to look for Tomy train. I remembered a very large and impressive build of Tomy train in the glass box containing railways around 10 layers stacking on top of each other. I wish one day I had the whole parts to build such a cool railway but I would cost a fortune.
 

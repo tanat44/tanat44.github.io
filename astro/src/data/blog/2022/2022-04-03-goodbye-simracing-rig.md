@@ -1,4 +1,14 @@
-# Goodbye Simracing Rig
+---
+pubDatetime: 2022-04-03
+title: Goodbye Simracing Rig
+tags:
+  - blog
+  - diy
+  - simracing
+description: Racing simulator is my favorite game since I was a kid and it remains the only genre of games that I am ready to pay for. With Playstation1, I and my dad we played Gran Turismo 1
+---
+![Side view of DIY simracing rig](@/assets/images/simrig4.jpg)
+
 This DIY project is probably one of the highest utility ones. Now it's time to say goodbye to the new home. I sold it on fb marketplace. 
 
 Racing simulator is my favorite game since I was a kid and it remains the only genre of games that I am ready to pay for. With Playstation1, I and my dad we played Gran Turismo 1 together in a small room under the stairs (before we renovated our house). It was an intense racing game as child who likes to crash their car and expect the car to bounce back, accelerate fast and over take the AI.
@@ -14,11 +24,10 @@ This Thrusmaster T300 RS was my dream back then. I got a chance to relocate to S
 ..
 
 
-![](/image/simrig4.jpg)
 
-![](/image/simrig1.jpg)
+![](@/assets/images/simrig1.jpg)
 
-![](/image/simrig2.jpg)
+![](@/assets/images/simrig2.jpg)
 
-![](/image/simrig3.jpg)
+![](@/assets/images/simrig3.jpg)
 

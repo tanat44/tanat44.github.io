@@ -1,8 +1,15 @@
-# Len's formula in Art Museum
+---
+pubDatetime: 2022-08-21
+title: Len's formula in the Art Museum
+tags:
+  - blog
+  - travel
+description: I didn't expect to learn Physics in the a modern Art museum. I saw a very good demonstration of the len's formula
+---
 
 Do you expect to learn Physics in the Art museum?
 
-![](/image/lens-formula2.jpeg)
+![](@/assets/images/lens-formula2.jpeg)
 
 ```math
 1/f = 1/u + 1/v
@@ -22,7 +29,7 @@ I learnt this formula in the science lesson first time during middle school, the
 I thought I knew it well almost by heart but today’s visit to **De Pont Museum of Contemporary Art, Tilburg, Netherlands** teach me the Physics for one more time.
 
 Knowing is not seeing.
-![](/image/lens-formula1.jpeg)
+![](@/assets/images/lens-formula1.jpeg)
 This art installation is a body-sized concave mirror. When you do physics experiment with 10cm lens / mirrors prove that the formula doesn’t lie you but I didn’t think that the world would be so much different if the same physics rule is applied to the body-sized mirror like this. In this photo, I was very astounded when seeing objects with u < 0.5f, getting larger and they keep the original heading, while objects u > 2f appearing smaller than the actual sizes with reserve heading. Everything is in one picture!
 
 Could we have his life-sized mirror in every school?

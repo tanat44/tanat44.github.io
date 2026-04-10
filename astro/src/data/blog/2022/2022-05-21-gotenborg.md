@@ -1,35 +1,43 @@
-# GÖtenburg2
-Here it comes the second episode of Gotenburg. My Dutch colleage invited me to the company's innovation week which was held in Gothenburg. This second visit earns a place for new experinces.
+---
+pubDatetime: 2022-05-21
+title: GÖtenburg2
+tags:
+  - blog
+  - travel
+description: Here it comes the second episode of Gotenburg. My Dutch colleage invited me to the company's innovation week which was held in Gothenburg. This second visit earns a place for new experiences.
+---
+
+Here it comes the second episode of Gotenburg. My Dutch colleague invited me to the company's innovation week which was held in Gothenburg. This second visit earns a place for new experiences.
 
 ## Broken watch
-My watch is never broken but I thought it was broken. Every places I have been to until now, I have never experienced very late sunset. On the first day I arrived, I was tired so I took a nap in the afternoon and set an alarm for dinner at 7PM. I woke up and saw a very bright sky. All clocks around me said it was 7PM. I wrote a chat to Swedish colleague and asked about sunset time. From then, I realise how big the world is. My intuition of time doesn't work here. 3AM sunrise -- such an extreme sun hour. But I like such a long day time when carefully thinking about it. I got used to it after a day and night.
+My watch is never broken but I thought it was broken. Every places I have been to until now, I have never experienced very late sunset. On the first day I arrived, I was tired so I took a nap in the afternoon and set an alarm for dinner at 7PM. I woke up and saw a very bright sky. All clocks around me said it was 7PM. I wrote a chat to Swedish colleague and asked about sunset time. From then, I realize how big the world is. My intuition of time doesn't work here. 3AM sunrise -- such an extreme sun hour. But I like such a long day time when carefully thinking about it. I got used to it after a day and night.
 
 ***...9PM...***
 
-![](/image/gotenborg2/9pm.jpg)
+![](@/assets/images/gotenborg2/9pm.jpg)
 
 ***...10PM...***
 
-![](/image/gotenborg2/10pm.jpg)
+![](@/assets/images/gotenborg2/10pm.jpg)
 
 ## Wouldn't it be nice to sleep in the wood?
 I remembered a Swedish colleague told me about the story of his new hobby of sleeping in the wood (forest). I thought it was cool. It doesn't sound to me like what an average person would do. It sounds like a stealth camping I was in Youtube. Well, I understand it a bit better during this trip. 
 
-![](/image/gotenborg2/wood.jpg)
+![](@/assets/images/gotenborg2/wood.jpg)
 
 This trip I hiked Stora Delsjon and Slottsskogen. I have never been to a city where woods are this close to the city, or being integrated into the city. It's a proper nature reserve just 10-min-walk across the street with bars and restuarants. How cool is that? Hiking / Jogging / Running seem like a regular activity of their day. You would see a small wooden hut with camping gears once in a while. My friend told me that you are allowed to stay overnight in the hut, camp with wooden fire, use the fallen trees. It's surprised that this is an activity for average person. Even more, I was told that anywhere in Sweden you aren't allow to deny someone crossing your property on feet or horse / you can camp anywhere for one night if it's not seen from any houses. 
 
-![](/image/gotenborg2/forest.jpg)
+![](@/assets/images/gotenborg2/forest.jpg)
 
 I walked on the "horse trail" and the sign says no biking. I thought who would still be riding the horse today. I found two horses! I met another Swedish who says his wife rides the horse during weekends.
 
-![](/image/gotenborg2/horse.jpg)
+![](@/assets/images/gotenborg2/horse.jpg)
 
 
 ## Meetup
 Everyone living abroad would probably heard about this website. I heard about it when I was in Singapore but I know enough friends who invite me to parties on those lonely days. I was hiking alone on the first day I arrived. I thought it would be more fun to have people to talk to. I looked into the app and luckily I found the meetup on the next day for hiking in Vrango. It was a bit nervous on the first meet when I wasn't sure if they were the people of the same trip. The weather was great. Everyone is very open to have a chat, introduce themselves time-and-time. You will know it for yourself when you need to do "Meetup". It's a great platform to learn about different cultures.
 
-![](/image/gotenborg2/meetup.jpeg)
+![](@/assets/images/gotenborg2/meetup.jpeg)
 
 ## Cashless
 Cashless is not something of your choice but it becomes the norm. I had exchanged some cash since the last trip. I can hardly find the place to use them. Hotel / restaurants don't take cash at all. Only supermarket takes them. I am hopeless. I will cut loss on those exchange.
@@ -57,21 +65,21 @@ This week is fully packed with talking to cool people from different part of the
 
 The experience of riding this turboprop plane is somewhat similar to "one-man-sha" train in Japan. It feels like a journey to countryside (which is not true..)
 
-![](/image/gotenborg2/atr72.jpg)
+![](@/assets/images/gotenborg2/atr72.jpg)
 
-![](/image/gotenborg2/helsinki.jpg)
+![](@/assets/images/gotenborg2/helsinki.jpg)
 
 ***... Coffee Lab ...***
 
 I found this coffee shop in the map. It doesn't have as many reviews as the other chic place but they serve really great & characterful coffee at almost half the price of a normal coffees shop. Their main business is probably selling the coffee machines. I also learn how I am supposed to flush the machine from the coffee mechanic...
 
-![](/image/gotenborg2/coffee_lab.jpg)
+![](@/assets/images/gotenborg2/coffee_lab.jpg)
 
 ***... Loop on your back ...***
 
 Almost all the cloths come with the loop around on the back. I have never really see the uses because there's no occassion in a hot country like Thailand to even wear an over coat. Or even if you wear it, there's really no hook for it to be useful ... Here, it's almost under every table.
 
-![](/image/gotenborg2/cloth_hook.jpg)
+![](@/assets/images/gotenborg2/cloth_hook.jpg)
 
 ***... Marathon Invention ...***
 
@@ -87,11 +95,11 @@ Guess what there's a better solution to it!
 
  God damn it. This is freaking smart! 
 
-![](/image/gotenborg2/marathon.jpg)
+![](@/assets/images/gotenborg2/marathon.jpg)
 
 
 ***... END ...***
 
 I am on my way home. Waiting for the next flight at 10PM in Helsinki. What a scene to end this trip!
 
-![](/image/gotenborg2/helsinki_bye.jpg)
+![](@/assets/images/gotenborg2/helsinki_bye.jpg)

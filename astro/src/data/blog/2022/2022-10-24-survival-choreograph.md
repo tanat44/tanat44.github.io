@@ -1,4 +1,11 @@
-# Survival Choreograph
+---
+pubDatetime: 2022-10-24
+title: Survival Choreograph
+tags:
+  - blog
+  - travel
+description: What a bad day? What an even worse day? How bad can it be? When something really bad happens to me
+---
 
 What a bad day?
 
@@ -45,7 +52,7 @@ After the decision was made to call ambulance, the pain got greater and greater.
 
 A group of two men and two woman arrived. One man was a volunteer helping with the translation. They interviewed my symptom. I was so scared that I didn't deserve the level of emergency. Heart rate was high 90. Body temp was rather normal with a bit of fever. A guy said we will take you to the nearest ER. They bring the chair and with one man and one lady they carry me down the apartment into the ambulance. I felt sorry to them carrying me down the alley.
 
-![](/image/ambulance.jpg)
+![](@/assets/images/ambulance.jpg)
 
 Ride was really horrible. I cannot stop the pain of water sloshing when the driver was trying his best to navigate around small narrow road along the lake cliff but I had a peace of mind knowing where I was going to and wishful that everything would be better in the coming hour. I was talking to the lady sitting next to me. She said she had covid two years ago. They were volunteers and their shift starts from 2000 to 700 the next day. What a great people! I like helping others but never imagine myself devoting to helping others at this level. 30-minute ride doesn't seem to have an end. I turned my body left and right to find a better spot.
 
