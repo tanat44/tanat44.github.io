@@ -1,6 +1,12 @@
-# How many more Japan in my life?
+---
+pubDatetime: 2024-02-21
+title: How many more Japan in my life?
+tags:
+  - blog
+description: I am back again in Japan. I am not sure how many times I have been here. Every time is different.
+---
 
-Here I am back again in Japan. I am not sure how many times I have been here. Every time is different.
+I am back again in Japan. I am not sure how many times I have been here. Every time is different.
 
 ## 25 years ago: I played Tamiya
 The moment I can hardly forget. Every Saturday morning at 9, I woke up to watch __Let's go brother__ with my dad. Times that I missed, we setup the video tape recorder. It's a Tamiya toys that brought me into car enthusias and at the same time Japanese Culture. Couple of years after my parents brought me a 1/10 Tamiya RC cars from their holiday in Hongkong. It was a memorable moment coming back from school and built dampers, differential, painted the car, start the engine with dad. I like cars. I want to build cars and I am still is. I am getting closer to making it real but I am not sure yet how to get there? 
@@ -25,7 +31,7 @@ A month has passed so fast. Coming together with the family makes me feel more c
 
 This time it makes me a strong believer of Japan. They have got everything to offer, not only to the local economy but to the humandkind. They are just not as good at making it a HIT . . . Or until I run out of energy.
 
-![My colleague](/image/japan-tico-party.jpg)
+![My colleague](@/assets/images/japan-tico-party.jpg)
 
 ### And then I am wondering to myself...
 
@@ -33,4 +39,4 @@ This time it makes me a strong believer of Japan. They have got everything to of
 
 ### .. What would be life be without Japan?
 
-![My family](/image/japan-tanut-ja.jpg)
+![My family](@/assets/images/japan-tanut-ja.jpg)
