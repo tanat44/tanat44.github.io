@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Code standards & build
+    name: build & deploy
     runs-on: ubuntu-latest
 
     steps:
@@ -20,17 +20,14 @@ jobs:
 
       - name: "📦 Install dependencies"
         run: npm install
-        working-directory: ./astro
 
       - name: "🚀 Build the project"
         run: npm run build
-        working-directory: ./astro
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: 'dist'
-        working-directory: ./astro
 
       - name: Deploy to GitHub Pages
         id: deployment
