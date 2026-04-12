@@ -1,14 +1,23 @@
-# Homemade Ramen Recipe
+---
+pubDatetime: 2021-09-16
+title: Homemade Ramen Recipe
+tags:
+  - blog
+  - cooking
+description: It's my first time making ramen and I think it worth taking a note.
+---
 
 It's my first time making ramen and I think it worth taking a note.
+![Photo of my ramen noodle](@/assets/images/ramen.jpg)
 
-### What's ramen?
+
+## What's ramen?
 I thought initially it was some flour mixed with egg (white+yolk) to make it yellowish look and chewy texture. No, **it's a dough of flour but mixed with alkaline solution (base solution)**
 This blew my mind when I first read about it [Here](https://zestyandspicy.com/kitchen-science/what-sodium-carbonate-can-do-for-you/)
 
 This makes sense when you see some authentic ramen uses alkaline water from the lake. 
 
-### What's the recipe then?
+## What's the recipe then?
 
 1. Make the alkaline substance? [This post](https://www.messyvegancook.com/vegan-alkaline-ramen-noodles-recipe/) explains the hack. Basically, we bake a baking soda (NaHCO3, sodium bicarbonate) to get Na2CO3 (sodium carbonate). Magiccc! The same way it adds bubble (CO3) to the cake but here we are interested in what is left (NaCO3). Then we use Sodium Carbonate to make base solution.
 1. Here's my take on the original recipe which I think it's easier to remember.
@@ -21,6 +30,4 @@ This makes sense when you see some authentic ramen uses alkaline water from the 
     - Shape it using cornflour dust
     - Boil for 1.5min for Katame, 2min for medium
 
-### Taste?
-Unbelievable!
-![](/image/ramen.jpg)
+## Taste? Unbelievable!

@@ -23,15 +23,29 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <Header />
   <main id="main-content" data-layout="index" class="app-layout">
     <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Mingalaba
-      </h1>
+      
+
+      <p class="text-center">
+        Something about tanat44 when I feel like writing / coding / building / drawing / inventing
+      </p>
+      <iframe src="/gallery/book-gallery.html" class="w-full h-80" seamless/>
+
+      <div class="flex flex-row mt-4 gap-2 items-end">
+      {
+        // only display if at least one social link is enabled
+        SOCIALS.length > 0 && (
+          <div class="flex max-sm:flex-col sm:items-center">
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
+            <Socials />
+          </div>
+        )
+      }
       <a
         target="_blank"
         href="/rss.xml"
-        class="inline-block"
         aria-label="rss feed"
         title="RSS Feed"
+        class="mb-2"
       >
         <IconRss
           width={20}
@@ -40,23 +54,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         />
         <span class="sr-only">RSS Feed</span>
       </a>
-
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <iframe src="/gallery/book-gallery.html" class="w-full h-80" seamless/>
-      {
-        // only display if at least one social link is enabled
-        SOCIALS.length > 0 && (
-          <div class="mt-4 flex max-sm:flex-col sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
-            <Socials />
-          </div>
-        )
-      }
+      </div>
     </section>
 
     {
