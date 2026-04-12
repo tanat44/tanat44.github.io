@@ -1,15 +1,15 @@
 <html>
+  <style>
+    html body {
+      width: 100vh;
+      height: 100vh;
+      margin: 0;
+    }
+  </style>
   <head>
-    <script type="module" src="book-gallery.js"></script>
+    <script type="module" src="/gallery/book-gallery.js"></script>
   </head>
   <body>
-    <canvas
-      id="gallery"
-      style="border: 1px solid black"
-      width="800"
-      height="300"
-      onclick="location.href = '/post/booksiread'"
-    >
-    </canvas>
+    <canvas id="book-gallery" onclick="window.open('/tags/book')"> </canvas>
   </body>
 </html>

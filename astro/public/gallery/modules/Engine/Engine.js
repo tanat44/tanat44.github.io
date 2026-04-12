@@ -47,9 +47,9 @@ export class Engine {
     //   e.preventDefault();
     // });
 
-    this.element.addEventListener("mousemove", (e) => this.mouseMove(e));
-    this.element.addEventListener("click", (e) => this.mouseClick(e));
-    window.addEventListener("resize", (e) => this.windowResize(e));
+    this.element.addEventListener("mousemove", e => this.mouseMove(e));
+    this.element.addEventListener("click", e => this.mouseClick(e));
+    window.addEventListener("resize", e => this.windowResize(e));
   }
 
   initCanvas() {
@@ -79,7 +79,7 @@ export class Engine {
     });
   }
 
-  windowResize(e) {
+  windowResize() {
     if (this.fullwindow) {
       this.element.width = window.innerWidth;
       this.element.height = window.innerHeight;
