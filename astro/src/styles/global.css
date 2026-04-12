@@ -68,3 +68,7 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+h3 {
+  color: #cec9fc;
+}
