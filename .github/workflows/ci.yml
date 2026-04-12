@@ -6,8 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
+
   build:
     name: build & deploy
+    environment:
+      name: github-pages
+      url: ${{steps.deployment.outputs.page_url}}
     runs-on: ubuntu-latest
 
     steps:
