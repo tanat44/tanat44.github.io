@@ -3,33 +3,26 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+<img src="/tanut.jpg" alt="tanat44" class="size-40"/>
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+```js
+// Everything about Tanut. & Matters that I am passionate about.
+var Tanut = { 
+  job: 'computer-mechanical-robotic engineer',
+  enjoy: ['make things happen', 'coding', 'cooking', 'f1', 'simracing'],
+  dream: 'make race cars',
+  speak: 'thai english japanese',
+  programming: 'any languages that make things happens',
+  os: ['mac', 'linux', 'windows']
+  cad: ['freecad', 'fusion', 'solidworks']
+}
+```
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## More interesting links
+[Sourdough Calculator](/sourdough-calculator/index.html)
 
-## Features
+[Low-Friction 11-DOF Robot Hand (Master Thesis, 2013)](/master_thesis.pdf)
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+## How do I build this page?
+I started building my one website (blog) in 2018 using github's pages with mostly standard Jekyll builders. On 2026-04-21 -- one day when I had trouble sleeping --, I finally migrated all content styles and linked HTML / JS to Astropaper.
