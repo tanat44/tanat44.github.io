@@ -1,6 +1,15 @@
-# Dream Bike Upgrade
+---
+pubDatetime: 2023-09-10
+title: Dream Bike Upgrade
+tags:
+  - blog
+  - diy
+description: One of the very important thing to have in Netherlands is a bicycle. When I first moved here around July 2022, I was on a tight budget. So the bike that I bought was never far from the cheapest one from Decathlon.
+---
 
 ## The Road Bike
+
+<iframe src="/carousel/index.html?baseUrl=/bicycle/road&images=before.jpg|after.jpg&autoRefPrefix=part&autoRefSuffix=.jpg&autoRefFrom=1&autoRefTo=21" class="w-full h-150" seamless></iframe>
 
 One of the very important thing to have in Netherlands is a bicycle. When I first moved here around July 2022, I was on a tight budget. So the bike that I bought was never far from the cheapest one from Decathlon. It was road bike for woman with drop handle bar, 8 speed microshift shifter, quick release wheel, changable stem, attach points for rear rack, 700c tires, standard components. I felt almost like my dream bike - a drop bar bike with ability to attach rear carried. Plus, it had a good potential if I wanted to upgrade it in the future. It costed me around 319 EUR.
 
@@ -42,14 +51,14 @@ What else I've ever dream of upgrading the bike? Of course, carbon fork, hollow 
 | Front brake caliper | 167g | - | Unchanged | - | 
 | Front wheel with quick release | 1069g | - | Unchanged | - |
 | - | - | - | - | **-1352g** |
-
-Weight saving from upgrade -1352g
-
 Weight after upgrade 10.4kg (with rear carrier)
 
-{% include_relative carousel/index.html baseUrl="/image/bicycle/road" images="before.jpg|after.jpg" autoRefPrefix="part" autoRefSuffix=".jpg" autoRefFrom="1" autoRefTo="21" %}
+### Weight saving from upgrade -1352g
+
 
 ## The Mountain Bike
+
+<iframe src="/carousel/index.html?baseUrl=/bicycle/mtb&images=before.jpg|after.jpg&autoRefPrefix=part&autoRefSuffix=.jpg&autoRefFrom=1&autoRefTo=21" class="w-full h-150" seamless></iframe>
 
 Mountain biking has always been something I wanted to learn. I was lucky that a friend is into it. We went mountain biking around Dortmund, Germany with his friend. I didn't have the bike, so my Dutch friend lent one to me. It was another Decathlon bike (how could I not love it?) of this brother's son. By now, the son has gone too big to fit the frame but it was just right for my size.
 
@@ -82,3 +91,5 @@ Since I would be upgrading my road bike, why not piggyback this opportunity and 
 | - | - | - | - | **-1711g** |
 
 Original weight 14.9kg
+
+### Weight saving from upgrade -1711g

@@ -7,6 +7,7 @@ tags:
   - simracing
 description: Racing simulator is my favorite game since I was a kid and it remains the only genre of games that I am ready to pay for. With Playstation1, I and my dad we played Gran Turismo 1
 ---
+
 ![Side view of DIY simracing rig](@/assets/images/simrig4.jpg)
 
 This DIY project is probably one of the highest utility ones. Now it's time to say goodbye to the new home. I sold it on fb marketplace. 

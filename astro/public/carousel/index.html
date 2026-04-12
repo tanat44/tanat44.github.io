@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
-    <title>Bootstrap Example</title>
+    <title>tanat44 image carousel</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -59,10 +59,20 @@
       };
     </script>
     <style>
-      /* Make the image fully responsive */
-      .carousel-inner img {
-        width: 100%;
+      html body .carousel-inner {
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+      }
+
+      .carousel-item {
         height: 100%;
+      }
+
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
       }
     </style>
   </head>
