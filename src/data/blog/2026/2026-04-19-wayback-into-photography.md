@@ -4,10 +4,10 @@ title: Wayback into photography
 tags:
   - blog
   - travel
-description: I went on my trip to 4th trip to Paris. I felt also like going back to the place that I know, although I don't think I know Paris. I had no expectation on places to go, so I went with the flow. Canon M50 makes the photography fun again.
+description: I went Paris probably for the 4th time. I had no expectation on places to go, so I went with the flow. Canon M50 makes the photography fun again.
 ---
 
-I went on my trip to 4th trip to Paris. I felt also like going back to the place that I know, although I don't think I know Paris. I had no expectation on places to go, so I went with the flow.
+I went Paris probably for the 4th time. I felt also like going back to the place that I know, although I don't think I know Paris. I had no expectation on places to go, so I went with the flow.
 
 Couples of day before we visited Paris. Duke showed me his new Nikon Z5ii camera. At first, I was really doubt why ones would use 'real camera' nowadays when iPhone 16 is a very very capable camera. The sensation of a clicking shutter sound, looking into the viewfinder, composing the frame, going through the hassle of exposures reminds me of those days when photography was fun. Photography was my hobby. On the same day I came back and undusted my Canon M50 with Meike prime 25/1.8. I almost forgot I had a camera.
 
