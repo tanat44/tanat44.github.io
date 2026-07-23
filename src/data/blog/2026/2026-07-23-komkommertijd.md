@@ -4,7 +4,8 @@ title: komkommertijd
 tags:
   - blog
   - book
-description: 
+description: 4 year is a long time to be spent abroad. It's now time to leave the Netherlands and go back home.
+
 ---
 
 4 year is a long time to be spent abroad. 4 years time can get you a university degree. I stayed 3.5 year in Japan, 1.5 year in Singapore. 4 years is more than 10% of the number of years since I was born. I think it's a sufficient time to learn something serious.
