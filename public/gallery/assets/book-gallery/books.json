@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "title": "Why the Dutch are different, Ben Coates",
+      "imagePath": "why-the-dutch-are-different.jpg",
+      "readMonth": 7,
+      "readYear": 2026
+    },
+    {
+      "title": "Miss Italy,  Kru Ka",
+      "imagePath": "miss-italy.jpg",
+      "readMonth": 6,
+      "readYear": 2026
+    },
+    {
       "title": "SP-287 What made apollo a success?, NASA",
       "imagePath": "what-made-apollo-a-success.jpg",
       "readMonth": 4,

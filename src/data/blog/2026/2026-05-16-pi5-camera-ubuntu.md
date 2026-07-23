@@ -4,7 +4,7 @@ title: Compile Raspberry Pi5 Camera library on Ubuntu 24.04
 tags:
   - blog
   - programming
-description: asdf
+description: Running Camera Module 3 on Raspberry Pi OS was very simple. Running ROS2 on Ubuntu on Raspberry Pi 5 was also very simple and straight forward. I want to run PiCamera + ROS2, then Ubuntu is the obvious choice. So I compiled PiCamera Library to run on Ubuntu
 ---
 
 This is a comprehensive guide on how to get Camera Module 3 working on Raspberry Pi5 on Ubuntu 2404. This guide is mainly based on the  [official camera software guide](https://www.raspberrypi.com/documentation/computers/camera_software.html#building-libcamera) but more focus on how to get it to work on Ubuntu 2404. 
