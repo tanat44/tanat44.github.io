@@ -1,6 +1,24 @@
 {
   "books": [
     {
+      "title": "The Adolescence of Technology, Dario Amodei",
+      "imagePath": "adolescence-of-technology.jpg",
+      "readMonth": 8,
+      "readYear": 2026
+    },
+    {
+      "title": "Butter, Asako Yuzuki",
+      "imagePath": "butter.jpg",
+      "readMonth": 8,
+      "readYear": 2026
+    },
+    {
+      "title": "Toyota Production System, Taiichi Ohno",
+      "imagePath": "toyota-production-system.jpg",
+      "readMonth": 8,
+      "readYear": 2026
+    },
+    {
       "title": "Why the Dutch are different, Ben Coates",
       "imagePath": "why-the-dutch-are-different.jpg",
       "readMonth": 7,

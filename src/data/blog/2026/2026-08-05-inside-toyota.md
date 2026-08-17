@@ -1,0 +1,21 @@
+---
+pubDatetime: 2026-08-05
+title: 'NHK Special: Inside Toyota'
+tags:
+  - tv
+description: One day youtube keep suggested me the video that reviews TV program 'Inside Toyota'. I was curious of the differences between Toyota Motor Corporation and TICO.
+
+---
+
+A couple of weeks ago I saw this [youtube clip](https://youtu.be/0jPfYtrNuLw) on the feed. He talked about this TV program [NHK Special Inside Toyota](https://www.web.nhk/tv/an/special/pl/series-tep-2NY2QQLPM3/ep/7WP78VLKVV). Since the program is only available in Japan. I had to download it with torrent. **Sadly, there's no official way just to watch from overseas, even if I am more than happy to pay.** The program talks about the development of new Toyota Corolla. Many scenes recall my 5 years of working in a Toyota group company.
+
+- Engineering office with rows after rows of desks on the same floor with hundreds of engineers. This reminds me of the 2nd floor of Tech Center in Takahama, TICO.
+- A shot of the outlook calendar of one employee which the schedules were fully booked / double booked until 9PM every single day. This reminds me of my Japanese colleagues around me who could rarely find time to spend on their own works -- which is sadly excel everything from filling forms, writing report, until presentation.
+- The prototype of new corolla that is based on Prius with frankenstein hacks. I was glad to see that 5th generation Prius is the base for development. I rented that Prius so many times while I was in Japan. It was great to drive, comfortable, practical, beautiful. The driving assistant that was tuned so well that helps you instead of intervene your nerves. **It's just simply sad that Toyota didn't make or import Prius in Thailand. Thailand was Toyota's market for second tier Toyota cars of the lower quality. Yet in a very competitive market like EU / US, Toyota offers their best cars.**
+- The development benchmark seems to be Prius, Tesla Model 3, some BYD, some XPENG. In my opinion, these are modern gold standards that the new corolla should aim to be better in every way.
+- I saw a mid-engine GR Yaris development car which was on the news lately. I wondered why Toyota did that. The show answers me - Toyota wanted a car to rival 911. I am both fan of GR products and 911.
+- During executive review session (where Akio Toyoda participated) for the new corolla reminds me of internal certification for 3TE25 towing trucks at TICO. There were a few scenes that I really enjoyed hearing what he said (not exact quote):
+    - He asked chief engineer "How do you define affordable corolla?". The chief answered that series of sensible corporative-style reasons with data-backed evidences. Akio commented that "You can do as many interviews / researches with ten of thousands of users but it's worthless if they are not the actual buyers. It's better to ask just ten people who really wants this cars". This is exactly what I was expecting to hear from Mr.Toyota. From my experiences with cooperates, companies are playing politics and lost in financial world. They tends to forget why they were their in the first place and what values do they bring to the society / customers.
+    - Akio said "Japan is a small country. It makes sense that Japanese company isn't the biggest one in the world. Japanese shall be proud when seeing Japanese products sold overseas." 
+
+I like this NHK program so does the Toyota car but it feels like one-sided love. NHK created a very good content but doesn't let you pay for view. Toyota made great cars but just doesn't sell them in here. From my experiences working with Japanese companies & living in Japan, this is a reflection of the current Japanese society where there's a clear separation of internal & external, domestic & international, friends & colleagues. Undeniably Japanese culture forms these walls of separation. A company like Toyota in one way is a microcosm of the society where invisible walls are in every direction. On the other hand, I truly believe that if Toyota wants the changes, Toyota can do it and it will make a positive effect on Japanese society as a whole.
